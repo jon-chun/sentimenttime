@@ -1,0 +1,3 @@
+[console_scripts]
+sentimenttime = sentimenttime.__main__:main
+
