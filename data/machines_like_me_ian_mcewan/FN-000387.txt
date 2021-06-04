@@ -1,0 +1,31 @@
+Machines Like Me
+327
+tions that I wanted to explore. I was interested in Paul Dirac's
+work. Above all, I wanted to understand what quantum
+mechanics could teach computer science. Few interruptions,
+of course. Access to a few books. People from King's and Man-
+chester and elsewhere came to visit. My friends never let me
+down. As for the intelligence world, they had me where they
+wanted me and they left me alone, f was free! I did my best
+year's work since we broke the Enigma code in '41. Or since
+the computer logic papers 1 wrote in the mid-thirties. I even
+made some headway with the P versus NP problem, though
+it wasn't formulated in those terms for another lifteen years.
+I was excited by Crick and Watson's paper on the structure of
+DNA. I began to work on the first sketches that led eventually
+to winner-take-all DNA neural networks—the sort of thing
+that helped make Adam and Eve possible."
+It was while Turing was telling me about his first year
+after Wandsworth, how he cut loose from the National Physi-
+cal Laboratory and the universities and set up on his own, that
+I felt my phone vibrating in my trouser pocket. An incoming
+text. Miranda, with the news. I longed to see it. But I had to
+ignore it.
+Turing was saying, "We had money from some friends in
+the States and from a couple of people here. We were a bril-
+liant team. Old Bletchley. The best. Our first job was to make
+ourselves financially independent. We designed a business
+computer to calculate weekly wages for big companies. It took
+us four years to pay back our generous friends. 1 hen we settled
+down to serious artificial intelligence, and this is the point of
+my story. At the start, we thought we were within ten years

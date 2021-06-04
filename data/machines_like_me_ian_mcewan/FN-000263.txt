@@ -1,0 +1,30 @@
+Machines Like Me
+201
+time when we must lose. She was right, probability demanded
+it, and I had no answer. I took £800 out of the account and gave
+her half. Adam pushed on with his work.
+There are people who see the word "equation" and their
+thoughts rear up like angry geese. That's not quite me, but
+I sympathise. I owed it to Turing's hospitality to attempt to
+understand his solution to the P versus NP problem. I didn't
+even understand the question. I tried his original paper, but it
+lay well beyond me—too many different forms of bracket, and
+symbols that encapsulated histories of other proofs or entire
+systems of mathematics. There was an intriguing "iff"—not
+a misspelling. It meant "if and only if." I read the responses
+to the solution, made to the press in layman's terms by fel-
+low mathematicians. "A revolutionary genius," "breathtaking
+shortcuts," "a feat of orthogonal deduction" and, best of all, by
+a winner of the Fields Medal, "He leaves many doors behind
+him that are barely ajar and his colleagues must do their best
+to squeeze through one and try to follow him through the
+next."
+I turned back and tried to understand the problem.
+I learned that P stood for polynomial time and N stood for
+non-deterministic. That took me nowhere. My first mean-
+ingful discovery was that if the equation was shown not to
+be true, that would be extremely helpful, for then everyone
+could stop thinking about it. But if there was a positive proof,
+that P really did equate to NP, it would have, in the words of
+the mathematician Stephen Cook, who formulated the prob-
+lem in these terms in 1971, "potentially stunning practical

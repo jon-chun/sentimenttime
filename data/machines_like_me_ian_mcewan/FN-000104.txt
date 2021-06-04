@@ -1,0 +1,31 @@
+Machines Like Me
+41
+with boisterous crowds of teenage girlfriends, with drunken
+undergraduates. All who knew her liked her. No one on any
+accessible site had a sinister story. Now and then the chatter
+endorsed parts of the past she was recounting in our midnight
+conversations. Elsewhere her name came up in connection
+with the one academic paper she had published—"Pannage
+in Swyncombe: the role of the half-wild pig in the household
+economies of a medieval Chilterns village." When I read it, I
+loved her more.
+As for the intuitive artificial mind, it was pure urban leg-
+end, begun in early 1968 when Alan Turing and his brilliant
+young colleague Demis Hassabis devised software to beat one
+of the world's great masters of the ancient game of go in five
+straight games. Everyone in the business knew that such a feat
+could not be accomplished by number-crunching force. The
+possible moves in go and chess vastly exceed the number of
+atoms in the observable universe, and go has exponentially
+more moves than chess. Go masters are unable to explain
+how they attain their supremacy beyond a profound sense
+of what feels right for any given situation on the board. So it
+was assumed that the computer was doing something similar.
+Breathless articles in the press announced a new era of human-
+ised software. Computers were on the threshold of thinking
+like us, imitating our often ill-defined reasons for our judge-
+ments and choices. In a counter-move and in a pioneering spirit
+of open access, Turing and Hassabis put their software online.
+In media interviews they described the process of machine
+deep learning and neural networks. Turing attempted layman
+explanations of the Monte Carlo tree search, an algorithm

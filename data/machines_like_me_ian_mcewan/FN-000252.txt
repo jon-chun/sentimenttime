@@ -1,0 +1,31 @@
+la n M c E w an
+190
+busy, so I'll leave you to it." He made an ironic bow and was
+gone.
+Moisture beads were forming on the bottle. Turing poured.
+We tilted our glasses in a token toast.
+"You're not old enough to have followed it at the time. In
+the mid-fifties, a computer the size of this room beat an Amer-
+ican and then a Russian grandmaster at chess. I was closely
+involved. It was a number-crunching set-up, very inelegant in
+retrospect. It was fed thousands of games. At every move, it
+ran through all the possibilities at speed. The more you under-
+stood about the program, the less impressed you'd be. But it
+was a significant moment. To the public, it was close to magi-
+cal. A mere machine inflicting intellectual defeat on the best
+minds in the world. It looked like artificial intelligence at the
+highest level, but it was more like an elaborate card trick.
+"Over the next fifteen years a lot of good people came
+into computer science. Work on neural networks advanced by
+many hands, the hardware got faster and smaller and cheaper,
+and ideas were trading at a faster rate too. And it goes on.
+I remember being in Santa Barbara with Demis in 1965 to
+speak at a machine-learning conference. We had 7,000, most
+of them bright kids even younger than you. Chinese, Indians,
+Koreans, Vietnamese as well as westerners. The whole planet
+was there."
+I was aware of the history from the research for my book.
+I also knew something of Turing's personal story. I wanted to
+let him know that I wasn't completely ignorant.
+I said, "A long road from Bletchley."
+He blinked this irrelevance away. "After various dis-

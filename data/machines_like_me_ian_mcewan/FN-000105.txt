@@ -1,0 +1,31 @@
+Ian McEwan
+42
+elaborated during the forties' Manhattan Project to develop
+the first atom bomb. He became famously irritable when he
+attempted, overambitiously, to explain PSPACE-complete
+mathematics to an impatient television interviewer. Less well
+known was his loss of temper on an American cable channel
+as he described a problem central to computer science, P versus
+NP. He was in front of a combative studio audience of ordinary
+"folk." He had recently published his solution, which math-
+ematicians around the world were then checking. As a prob-
+lem it was easy to state, formidably difficult to resolve. Turing
+was trying to suggest that a correct positive solution would
+initiate exciting discoveries in biology as well as in concepts of
+space and time and creativity. The audience did not share or
+understand his excitement. They had only a dim awareness of
+his role in the Second World War, or of his influence on their
+own computer-dependent lives. They regarded him as the per-
+fect English gentleman egghead and enjoyed tormenting him
+with stupid questions. The unhappy episode marked the end of
+his mission to popularise his field.
+Before the confrontation with the nine-dan Japanese go
+master, the luring—Hassabis computer played thousands
+of matches against itself continuously for a year. It learned
+from experience, and it was the scientists' claim—reasonable
+enough to have come a step closer to approximating human
+general intelligence that gave rise to the legend of machine
+intuition. Nothing they said could bring the untethered story
+back to earth.
+Commentators who suggested that the computer's vic-
+tory would make the game extinct were wrong. After his fifth

@@ -1,0 +1,31 @@
+Ian McEw a n
+192
+learned that it was a mistake to attempt to slavishly imitate
+the human sort. We'd wasted a lot of time. Now we could set
+the machine free to draw its own conclusions and reach for its
+own solutions. But when we'd got well past that gateway, we
+found we had entered nothing more than a kindergarten. Not
+even that."
+The air conditioning was full on. I shivered as I reached
+for my jacket. He refilled our glasses. A rich red would have
+suited me better.
+"The point is, chess is not a representation of life. It's a
+closed system. Its rules are unchallenged and prevail consis-
+tently across the board. Each piece has well-defined limitations
+and accepts its role, the history of a game is clear and incon-
+testable at every stage, and the end, when it comes, is never
+in doubt. It's a perfect information game. But life, where we
+apply our intelligence, is an open system. Messy, full of tricks
+and feints and ambiguities and false friends. So is language—
+not a problem to be solved or a device for solving problems. It's
+more like a mirror, no, a billion mirrors in a cluster like a fly's
+eye, reflecting, distorting and constructing our world at differ-
+ent focal lengths. Simple statements need external informa-
+tion to be understood because language is as open a system as
+life. I hunted the bear with my knife. I hunted the bear with
+my wife. Without thinking about it, you know that you can't
+use your wife to kill a bear. The second sentence is easy to
+understand, even though it doesn't contain all of the necessary
+information. A machine would struggle.
+"And for some years so did we. At last we broke through by
+finding the positive solution to P versus NP—I don't have time

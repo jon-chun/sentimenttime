@@ -1,0 +1,31 @@
+Machines Like Me
+191
+appointments, we arrived at a new stage. We went beyond
+devising symbolic representations of all likely circumstances
+and inputting thousands of rules. We were approaching the
+gateway of intelligence as we understand it. The software
+now searched for patterns and drew inferences of its own. An
+important test came when our computer played a master at the
+game of go. In preparation, the software played against itself
+for months—it played and learned, and on the day—well, you
+know the story. Within a short while, we had stripped down
+our input to merely encoding the rules of the game and task-
+ing the computer to win. At this point we passed through that
+gateway with so-called recurrent networks, from which there
+were spin-offs, especially in speech recognition. In the lab we
+went back to chess. The computer was freed from having to
+understand the game as humans played it. The long history of
+brilliant manoeuvres by the great masters was now irrelevant
+to the programming. Here are the rules, we said. Just win in
+your own sweet way. Immediately the game was redefined
+and moved into areas beyond human comprehension. The
+machine made baffling mid-game moves, perverse sacrifices,
+or it eccentrically exiled its queen to a remote corner. The pur-
+pose might become clear only in a devastating endgame. All
+this after a few hours' rehearsal. Between breakfast and lunch
+the computer quietly outclassed centuries of human chess.
+Exhilarating. For the first few days, after we realised what
+it had achieved without us, Demis and I couldn't stop laugh-
+ing. Excitement, amazement. We were impatient to present
+our results.
+"So. There's more than one kind of intelligence. We'd

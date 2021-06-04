@@ -1,0 +1,31 @@
+202
+Ian McEw an
+consequences." But what was the problem? I came across an
+example, an apparently famous one, that helped only a little.
+A travelling salesman has a hundred cities on his patch. He
+knows all the distances between every pair of cities. He needs
+to visit each city once and end up at his starting point. What's
+his shortest route?
+I came to understand the following: the number of pos-
+sible routes is vast, far greater than the number of atoms in the
+observable universe. In a thousand years a powerful computer
+wouldn't have time to measure out each route one by one. If P
+equals NP, there's a discoverable right answer. But if someone
+gave the salesman the quickest route, it could be quickly veri-
+fied mathematically as the correct answer. But only in retro-
+spect. Without a positive solution, or without being handed
+the key to the shortest route, the travelling salesman remains
+in the dark.
+Turing's proof had profound consequences for other kinds
+of problems—for factory logistics, DNA sequencing, computer
+security, protein folding and, crucially, machine learning.
+I read that there was fury among Turing's old colleagues in
+cryptography because the solution, which he eventually put
+into the public domain, blew apart the foundations of the code-
+maker's art. It should have become, one commentator wrote,
+"a treasured secret in the government's exclusive possession.
+We would have had an immeasurable advantage over our ene-
+mies as we quietly read their encrypted messages."
+That was as far as I got. I could have asked Adam to explain
+more, but I had my pride. It had already taken a dent—he was
+earning more in a week than I ever had in three months. 1
