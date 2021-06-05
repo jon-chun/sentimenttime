@@ -3,6 +3,9 @@ import os
 import re
 import string
 
+import numpy as np
+from scipy import stats
+
 # SymSpellpy
 
 import contractions
@@ -51,6 +54,7 @@ def ocr_correct(string, replacements, ignore_case=False):
     :rtype: str
 
     Source:  multireplace() from https://gist.github.com/bgusach/a967e0587d6e01e889fd1d776c5f3729
+    Source:  https://learning.oreilly.com/library/view/python-cookbook/0596001673/ch03s15.html
     Discuss: https://stackoverflow.com/questions/6116978/how-to-replace-multiple-substrings-of-a-string 
     """
     # If case insensitive, we need to normalize the old string so that later a replacement
@@ -102,6 +106,9 @@ with open("machines_like_me_clean.txt", "r+") as fp_in:
                          " I here " : " There ",
                          " 1 hird " : " Third ",
                          " wwhile " : " wwhile ",
+                         " WWhile " : " While ",
+                         " wWhile " : " while ",
+                         " Wwhile " : " While ",
                          "wwhile "  : "While ",
                          " I irst"  : " First",
                          " 1 hey "  : " They ",
@@ -150,6 +157,18 @@ with open("machines_like_me_clean.txt", "r+") as fp_in:
 
         lines_corrected_ls.append(aline_final_str)
 
+# https://gist.github.com/tammoippen/4474e838e969bf177155231ebba52386 
+def crappyhist(a, bins=50, width=140):
+    h, b = np.histogram(a, bins)
+
+    for i in range (0, bins):
+        print('{:12.5f}  | {:{width}s} {}'.format(
+            b[i], 
+            '#'*int(width*h[i]/np.amax(h)), 
+            h[i], 
+            width=width))
+    print('{:12.5f}  |'.format(b[bins]))
+
         
 # UNCOMMENT EITHER (A) PRODUCTION or (B) DEBUGGING BELOW
 
@@ -161,7 +180,47 @@ with open("machines_like_me_clean.txt", "r+") as fp_in:
 with open("machines_like_me_clean_final.txt", "w+") as fp_out:
     for i, out_line in enumerate(lines_corrected_ls):
         fp_out.write(out_line.strip() + '\n')
+        
+# Run some summary statistics
+aline_ch_len_ls = []
+aline_wd_len_ls = []
+for i, aline in enumerate(lines_corrected_ls):
+    aline_ch_len = len(aline.strip())
+    aline_ls = aline.strip().split()
+    aline_wd_len = len(aline_ls)
+    if aline_ch_len == 0:
+        print('EMPTY LINE')
+    else:
+        print(f'Line #{i} ({aline_wd_len} words, {aline_ch_len} chars): {aline}')
+        aline_ch_len_ls.append(aline_ch_len)
+        aline_wd_len_ls.append(aline_wd_len)
 
+aline_ch_len_np = np.asarray(aline_ch_len_ls, dtype=np.int32)
+aline_wd_len_np = np.asarray(aline_wd_len_ls, dtype=np.int32)
+
+print('\n==========\n Character Stats\n==========')
+print(stats.describe(aline_ch_len_np))
+crappyhist(aline_ch_len_ls)
+
+print('\n')
+print('\n==========\n Word Statistics\n==========')
+print(stats.describe(aline_wd_len_np))
+crappyhist(aline_wd_len_ls)
+
+print('\n=========\n Longest Paragraph\n=========')
+print(max(lines_corrected_ls, key=len))
+
+print('\n=========\n n-Longest Paragraphs\n=========')
+def longestString(li,k):
+    li.sort(key = lambda x: len(x))
+    return li[len(li)-k]
+
+lines_corrected_lensort_ls = sorted(lines_corrected_ls, key=len) # .sort(key = len(), reverse=True)
+for i, along_str in enumerate(lines_corrected_lensort_ls):
+    print(f'\n=========\n {i}th Longest Paragraph\n=========')
+    print(along_str)
+    
+    
 '''
 # (B) DEBUGGING 
 # This is for exploring the corpus and iteratively finding OCR errors 
