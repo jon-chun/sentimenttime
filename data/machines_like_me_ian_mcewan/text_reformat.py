@@ -13,7 +13,7 @@ from cleantext import clean
 re_title_caps = re.compile("^[A-Z]{,5}$")
 re_pageno = re.compile("^[0-9(]{,3}$")
 re_pageno_mess = re.compile("^[0-9()\s]{,5}$")
-re_page_header1 = re.compile("^I[an\s]+M[cE\s]+.*")
+re_page_header1 = re.compile("^[I1][an\s]+M[cE\s]+.*")
 re_page_header2 = re.compile("^M[achines\s]+L[ike\s]+.*$")
 re_ocr_break = re.compile("^<OCR PAGE BREAK>$")
 re_hyphen_end = re.compile("^.*[^-][-]$")

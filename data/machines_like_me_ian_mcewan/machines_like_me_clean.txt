@@ -1,6 +1,8 @@
 But remember, please, the Law by which we live, We are not built to comprehend a lie ...
 
---Rudyard Kipling, "The Secret of the Machines" It was religious yearning granted hope, it was the holy grail of science. Our ambitions ran high and low--for a creation myth made real, for a monstrous act of self-love. As soon as it was feasible, we had no choice but to follow our desires and hang the consequences. In loftiest terms, we aimed to escape our mortality, confront or even replace the Godhead with a perfect self. More practically, we intended to devise an improved, more modern version of ourselves and exult in the joy of invention, the thrill of mastery. In the autumn of the twentieth century, it came about at last, the first step towards the fulfilment of an ancient dream, the beginning of the long lesson we would teach ourselves that however complicated we were, however faulty and difficult to describe in even our simplest actions and modes of being, we could be imitated and bettered. And I was there as a young man, an early and eager adopter in that chilly dawn.
+--Rudyard Kipling, "The Secret of the Machines" 
+
+It was religious yearning granted hope, it was the holy grail of science. Our ambitions ran high and low--for a creation myth made real, for a monstrous act of self-love. As soon as it was feasible, we had no choice but to follow our desires and hang the consequences. In loftiest terms, we aimed to escape our mortality, confront or even replace the Godhead with a perfect self. More practically, we intended to devise an improved, more modern version of ourselves and exult in the joy of invention, the thrill of mastery. In the autumn of the twentieth century, it came about at last, the first step towards the fulfilment of an ancient dream, the beginning of the long lesson we would teach ourselves that however complicated we were, however faulty and difficult to describe in even our simplest actions and modes of being, we could be imitated and bettered. And I was there as a young man, an early and eager adopter in that chilly dawn.
 
 But artificial humans were a cliche long before they arrived, so when they did, they seemed to some a disappointment. The imagination, fleeter than history, than technological advance, had already rehearsed this future in books, then films and TV dramas, as if human actors, walking with a certain glazed look, phony head movements, some stiffness in the lower back, could prepare us for life with our cousins from the future.
 
@@ -64,7 +66,7 @@ Brains and electronics were closely related, so I discovered through my teens as
 
 When I was seventeen, Peter Cox persuaded me to study physics at a local college. Within a month I was bored and looking to change. The subject was too abstract, the maths was beyond me. And by then I'd read a book or two and was taking an interest in imaginary people. Heller's Catch-18, Fitzgerald's The High-Bouncing Lover, Orwell's The Last Man in Europe, lolstoy's All's Well That Ends Well--I didn't get much further and yet I saw the point of art. It was a form of investigation. But I didn't want to study literature--too intimidating, too intuitive. A single-sheet course summary I picked up in the college library announced anthropology as "the science of people in their societies through space and time." Systematic study, with the human factor thrown in. I signed up.
 
-1 he first thing to learn: my course was pitifully underfunded. No bunking off for a year to the Trobriand Islands, where, I read, it was taboo to eat in front of others. It was good manners to eat alone, with your back turned to friends and family. J he islanders had spells to make ugly people beautiful. Children were actively encouraged to be sexual with each other. Yams were the viable currency. Women determined the status of men. How strange and bracing. My view of human nature had been shaped by the mostly white population crammed into the southern quarter of England. Now I was set free into bottomless relativism.
+The first thing to learn: my course was pitifully underfunded. No bunking off for a year to the Trobriand Islands, where, I read, it was taboo to eat in front of others. It was good manners to eat alone, with your back turned to friends and family. J he islanders had spells to make ugly people beautiful. Children were actively encouraged to be sexual with each other. Yams were the viable currency. Women determined the status of men. How strange and bracing. My view of human nature had been shaped by the mostly white population crammed into the southern quarter of England. Now I was set free into bottomless relativism.
 
 At the age of nineteen I wrote a wise essay on honour cultures entitled "Mind-forged Manacles?" Dispassionately, I gathered up my case studies. What did I know or care? There were places where rape was so common it didn't have a name. A young father's throat was cut for failing in his duties to an ancient feud. Here was a family eager to kill a daughter for being seen holding hands with a lad from the wrong religious group. There, elderly women keenly assisted in the genital mutilation of their granddaughters. What of the instinctive parental impulses to love and protect? The cultural signal was louder. What of universal values? Upended. Nothing like this in Stratford-upon-Avon. It was all about the mind, the tradition, the religion--nothing but software, I now thought, and best regarded in value-free terms.
 
@@ -72,7 +74,7 @@ Anthropologists did not pass judgement. They observed and reported on human vari
 
 When I entered the kitchen in the morning, later than usual, Adam's eyes were open. They were pale blue, flecked with minuscule vertical rods of black. The eyelashes were long and thick, like a child's. But his blink mechanism had not yet kicked in. It was set at irregular intervals and adjusted for mood and gestures, and primed to react to the actions and speech of others. Reluctantly, I'd read the handbook into the night. He was equipped with a blink reflex to protect his eyes from flying objects. At present, his gaze was empty of meaning or intent and therefore unaffecting, as lifeless as the stare of a shop-window mannequin. So far, he was showing none of the fractional movements that warmly typify the human head. Elsewhere, no body language at all. When I felt for the pulse in his wrist, I found nothing--a heartbeat without a pulse. His arm was heavy to lift, resistant at the elbow joint, as though rigor mortis was about to set in.
 
-1 turned my back on him and made coffee. Miranda was on my mind. Everything had changed. Nothing had changed.
+I turned my back on him and made coffee. Miranda was on my mind. Everything had changed. Nothing had changed.
 
 During my near-sleepless night, I'd remembered that she was visiting her father. She would have gone straight to Salisbury from her seminar. I saw her on her train from Waterloo, sitting with an unread book on her lap, staring at the rushing landscape, the dip and rise of telephone lines, not thinking of me. Or thinking only of me. Or recalling a boy at her seminar who'd tried to out-stare her.
 
@@ -170,7 +172,7 @@ At a sound behind me, I came back to myself, heard it again and turned. Adam was
 
 "Charlie, I understand that you're cooking for your friend upstairs. Miranda."
 
-1 said nothing.
+I said nothing.
 
 "According to my researches these past few seconds, and to my analysis, you should be careful of trusting her completely." "What?"
 
@@ -198,7 +200,7 @@ Working on the old computer in my bedroom, out of Adam's sight, I typed in my ow
 
 Behind me, Adam was in place at the table, gazing towards the window. I finished and was drying my hands on a tea towel as I went over to him. Despite my sunny mood, I could not forgive his disloyalty. I didn't want to hear what else he had to say. There were boundaries of ordinary decency he needed to learn--hardly a challenge for his neural networks. His heuristic shortcomings had encouraged my decision. When I had learned more, when Miranda had done her share, he could come back into our lives.
 
-1 kept a friendly tone. "Adam, I'm switching you off for a while."
+I kept a friendly tone. "Adam, I'm switching you off for a while."
 
 His head turned towards me, paused, tilted, then tilted the other way. It was some designer's notion of how consciousness might manifest itself in movement. It would come to irritate me.
 
@@ -210,7 +212,7 @@ He said, "With all respect, I think that's a bad idea." "It's what I've decided.
 
 "It occurred to me that those who believe in a life beyond this one will--"
 
-1 hat's enough. Hold still." I reached over his shoulder. His breath was warm on my arm, which, I supposed, he could snap with ease. 1 he manual quoted in bold Isaac Asimov's tirelessly reiterated First Law of Robotics, "A robot may not injure a human being or, through inaction, allow a human being to come to harm."
+That's enough. Hold still." I reached over his shoulder. His breath was warm on my arm, which, I supposed, he could snap with ease. 1 he manual quoted in bold Isaac Asimov's tirelessly reiterated First Law of Robotics, "A robot may not injure a human being or, through inaction, allow a human being to come to harm."
 
 I couldnt find what I wanted by touch. I walked behind Adam and there, as described, right on the hairline was the mole. I put my finger on it.
 
@@ -272,7 +274,7 @@ The woman's back was broad, her hair black, curly, thinning towards the crown. I
 
 His screams were angering his mother further. "Shut up!" she shouted at him over and over again. "Shut up! Shut up!" Even then I might have forced myself to ignore the scene. But as the boy's shrieks grew louder, she seized his shoulders in two hands, pulling his dirty t-shirt clear of his belly, and began to shake him hard.
 
-1 here are some decisions, even moral ones, that are formed in regions below conscious thought. I found myself jogging towards the playground's fence, stepping over it, taking three paces and putting a hand on the woman's shoulder.
+There are some decisions, even moral ones, that are formed in regions below conscious thought. I found myself jogging towards the playground's fence, stepping over it, taking three paces and putting a hand on the woman's shoulder.
 
 I said, "Excuse me. Please. Please don't do that."
 
@@ -496,7 +498,7 @@ I made the introduction. "Simon. My friend Adam."
 
 Simon nodded. Adam said, "Hello," and smiled.
 
-1 was reassured. A good start. If Simon had noticed the strange appearance of Adam's eyes, he didn't show it. It was a common reaction, I would soon discover. People assumed a congenital deformity and politely looked away. Simon and I discussed the cricket--three consecutive sixes and a pitch invasion at the India--England T20--while Adam stood apart before an array of canned goods on a shelf. They would be instantly familiar to him, their commercial histories, market share, nutritional value. But as we chatted, it was obvious he wasn't looking at tins of peas, or anything at all. His face was frozen. He hadn't moved in two minutes. I worried that something unusual or unpleasant was about to happen. Simon politely pretended he hadn't noticed. It was possible that Adam had put himself in rest mode. I made a mental note: he was in need of an appearance of plausibility whenever doing nothing. His eyes were open, but he failed to blink. Perhaps I had brought him out into the world too soon. Simon would be offended that I had tried to pass off Adam as a person, a friend. It could look like mockery, a tasteless joke. I would have betrayed a pleasant acquaintance.
+I was reassured. A good start. If Simon had noticed the strange appearance of Adam's eyes, he didn't show it. It was a common reaction, I would soon discover. People assumed a congenital deformity and politely looked away. Simon and I discussed the cricket--three consecutive sixes and a pitch invasion at the India--England T20--while Adam stood apart before an array of canned goods on a shelf. They would be instantly familiar to him, their commercial histories, market share, nutritional value. But as we chatted, it was obvious he wasn't looking at tins of peas, or anything at all. His face was frozen. He hadn't moved in two minutes. I worried that something unusual or unpleasant was about to happen. Simon politely pretended he hadn't noticed. It was possible that Adam had put himself in rest mode. I made a mental note: he was in need of an appearance of plausibility whenever doing nothing. His eyes were open, but he failed to blink. Perhaps I had brought him out into the world too soon. Simon would be offended that I had tried to pass off Adam as a person, a friend. It could look like mockery, a tasteless joke. I would have betrayed a pleasant acquaintance.
 
 The cricket banter began to falter. Simon's gaze settled on Adam, then returned to me. He said tactfully, "Your Anthropos is in."
 
@@ -542,7 +544,7 @@ His tone was prompt and calm. "Invasion, success or failure. Negotiated settleme
 
 "Adam. Enough! Really. What nonsense!" Now it was Miranda who reached for the Medoc.
 
-1 was relieved to be no longer the object of her irritation. I said, "But Miranda and I would ascribe completely different a priori values."
+I was relieved to be no longer the object of her irritation. I said, "But Miranda and I would ascribe completely different a priori values."
 
 Adam turned his head towards me. As always, too slowly. "Of course. As I said, when describing the future there can be no absolute values. Only shifting degrees of likelihood." "But they're entirely subjective."
 
@@ -990,7 +992,7 @@ As I turned away he said, "But. . ."
 
 "But what?"
 
-"1 can't help my feelings. You have to allow me my feelings."
+"I can't help my feelings. You have to allow me my feelings."
 
 I thought for a moment. "Do you really feel anything at all?"
 
@@ -1050,7 +1052,7 @@ Ridiculous!
 
 My pulse rate didn't increase, but my heart felt uncomfortable in my chest, as though mishandled and left lying at a rough angle.
 
-1 said, "How can you possibly be in love?"
+I said, "How can you possibly be in love?"
 
 "Please don't insult me."
 
@@ -1096,7 +1098,7 @@ Beyond the either-or was a dangerous middle ground where the half-forgotten stud
 
 The story of the missing texts was particular, inventive, easily verified or disproved. By telling it to the court, Gorringe la n McEw a n as rapist may have calculated that he had nothing to lose. A wild fiction and he almost got away with it. If he was innocent, if the texts existed, then the system had let him down. Either way, it had let itself down. His story should have been checked. On that, I was with the sceptical press. The blame could lie with an inexperienced legal aid team, too hard-pressed, too sloppy. Or with policemen greedy for success. And certainly with an ill-tempered judge.
 
-On my way back from the Common, 1 slowed as I turned into my road. Now I knew as much as Adam. I hadn't spoken to him since the evening before. After a painful, sleepless night, I had got up early to go to the hospital. As I went through the kitchen I had passed close by him. He was sitting at the kitchen table as usual, connected to his power line. His eyes were open and had that tranquil, faraway look whenever he retreated into his circuits. I had hesitated there for a whole minute, wondering what I had got into with my purchase. He was far more complicated than I'd imagined, and so were my own feelings about him. We had to confront each other, but I was exhausted from two broken nights and needed to get to the hospital.
+On my way back from the Common, I slowed as I turned into my road. Now I knew as much as Adam. I hadn't spoken to him since the evening before. After a painful, sleepless night, I had got up early to go to the hospital. As I went through the kitchen I had passed close by him. He was sitting at the kitchen table as usual, connected to his power line. His eyes were open and had that tranquil, faraway look whenever he retreated into his circuits. I had hesitated there for a whole minute, wondering what I had got into with my purchase. He was far more complicated than I'd imagined, and so were my own feelings about him. We had to confront each other, but I was exhausted from two broken nights and needed to get to the hospital.
 
 What I wanted now, returning from my walk, was to retreat to my bedroom for a dose of painkillers and a nap. But he was standing facing me as I came in. At the sight of my arm suspended in its sling, he gave a cry of astonishment or horror. He came towards me, arms spread.
 
@@ -2794,5 +2796,5 @@ But for the moment, I remained in the corridor, in a daze, sitting on a bench, s
 
 A minute passed before I realised that I was looking into the lab where the stainless-steel tables were. It seemed a long time since I'd been there. In another life. I stood, paused, then, rejecting all thoughts of authority and permission, stepped in and approached. The long room, with its exposed industrial ceiling ducts and cables, remained fluorescent lit and was deserted but for a lab assistant busy at the far end. From the streets below came the sound of distant sirens and a repeated chant, hard to make out. Someone or something must go. I walked slowly, soundlessly, across the polished floor. Adam remained as he had been, lying on his back. His power line had been removed from his abdomen and trailed on the floor. The Charlie Parker head had gone and I was glad. I didn't want to be in the line of that gaze.
 
-I stood by Adam's side, and rested my hand on his lapel, above the stilled heart. Good cloth, was my irrelevant thought. I leaned over the table and looked down into the sightless cloudy green eyes. I had no particular intentions. Sometimes the body knows, ahead of the mind, what to do. I suppose I thought it was right to forgive him, despite the harm he had done to Mark, in the hope that he or the inheritor of his memories would forgive Miranda and me our terrible deed. Hesitating several seconds, I lowered my face over his and kissed his soft, all-too-human lips. I imagined some warmth in the flesh, and his hand coming up to touch my arm, as if to keep me there. I straightened and stood by the steel table, reluctant to leave. The streets below were suddenly silent. Above my head, the systems of the modern building murmured and growled like a living beast. My exhaustion welled up and my eyes closed briefly. In a moment of synaesthesia, jumbled phrases, scattered impulses of love and regret, became cascading curtains of coloured light that collapsed and folded then vanished. I wasn't too embarrassed to speak out loud to the dead to give shape and definition to my guilt. But I said nothing. The matter was too contorted. The next phase of my life, surely the most demanding, was already beginning. And I had lingered too long. Any moment, Turing would come out of his office to find me and damn me further. I turned away from Adam and walked the length of the lab at a pace without looking back. I ran along the empty corridor, found the emergency stairs, took them two at a time down into the street and set off on my journey southwards across London towards my troubled home. ACKNOWLEDGEMENTS I am deeply grateful to all those who gave their time to an early draft of this novel: Annalena McAfee, Tim Garton Ash, Galen Strawson, Ray Dolan, Richard Eyre, Peter Straus, Dan Franklin, Nan Talese, Jaco and Elizabeth Groot, Louise Dennys, Ray Neinstein and Kathy Nemser, Ana Fletcher and David Milner. I make an exclusive claim to any remaining errors. I'm indebted to a long conversation with Demis Hassabis (b.1976) and to Andrew Hodges's magisterial biography of Alan Turing (d.1954).
+I stood by Adam's side, and rested my hand on his lapel, above the stilled heart. Good cloth, was my irrelevant thought. I leaned over the table and looked down into the sightless cloudy green eyes. I had no particular intentions. Sometimes the body knows, ahead of the mind, what to do. I suppose I thought it was right to forgive him, despite the harm he had done to Mark, in the hope that he or the inheritor of his memories would forgive Miranda and me our terrible deed. Hesitating several seconds, I lowered my face over his and kissed his soft, all-too-human lips. I imagined some warmth in the flesh, and his hand coming up to touch my arm, as if to keep me there. I straightened and stood by the steel table, reluctant to leave. The streets below were suddenly silent. Above my head, the systems of the modern building murmured and growled like a living beast. My exhaustion welled up and my eyes closed briefly. In a moment of synaesthesia, jumbled phrases, scattered impulses of love and regret, became cascading curtains of coloured light that collapsed and folded then vanished. I wasn't too embarrassed to speak out loud to the dead to give shape and definition to my guilt. But I said nothing. The matter was too contorted. The next phase of my life, surely the most demanding, was already beginning. And I had lingered too long. Any moment, Turing would come out of his office to find me and damn me further. I turned away from Adam and walked the length of the lab at a pace without looking back. I ran along the empty corridor, found the emergency stairs, took them two at a time down into the street and set off on my journey southwards across London towards my troubled home. 
 
