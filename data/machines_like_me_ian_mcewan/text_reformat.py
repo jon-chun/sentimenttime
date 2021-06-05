@@ -141,7 +141,7 @@ for aline in enumerate(lines_del):
 # Statistics on column no of ending period (.)
 line_endperiod_len_dt = {}
 for i,aline in enumerate(lines_clean):
-    if aline.endswith(('.', '."', '?', '?"', '!', '!"')): # or aline.endswith('."'):
+    if aline.endswith(('.', '."', '?', '?"', '!', '!"', '-"')): # or aline.endswith('."'):
         aline_len = len(aline)
         line_endperiod_len_dt[i] = aline_len
         # print(f'Clean line #{i} len={aline_len}: {aline}')
@@ -240,7 +240,7 @@ for key, value in line_endperiod_len_dt.items():
 # Deterimine if line is end of a paragramph
 lines_parag_end_ls = []
 for i,aline in enumerate(lines_clean):
-    if aline.endswith(('.', '."', '?', '?"', '!', '!"')): # ('.') or aline.endswith('."'):
+    if aline.endswith(('.', '."', '?', '?"', '!', '!"', '-"')): # ('.') or aline.endswith('."'):
         if len(aline) > decision_cut:
             # print(f'NOT-PARAG ENDING SENT #{i}: {aline}')
             lines_parag_end_ls.append(0)
@@ -260,22 +260,22 @@ with open('machines_like_me_clean.txt', 'w+') as fp_out:
         if lines_parag_end_ls[i] == 0:
             # Merge hyphenated words at end of line
             if re.match(re_hyphen_end, str(aline)):
-                print(f'line #{i} ends with hyphen: {aline}')
+                # print(f'line #{i} ends with hyphen: {aline}')
                 cur_line_ls.append(aline[:-1])
                 cur_line_ls.append('<JOIN_HYPHEN>')
                 # print(f'     cur_line: {cur_line_ls}')
             else:
                 cur_line_ls.append(aline)
                 # out_line = ' '.join(cur_line_ls) + aline
-                print(f'CUR_LINE #{j}: {cur_line_ls}')
+                # print(f'CUR_LINE #{j}: {cur_line_ls}')
                     
         elif lines_parag_end_ls[i] == 1:
-            out_line = ' '.join(cur_line_ls).strip()
+            out_line = ' '.join(cur_line_ls).strip() + ' '  + aline
             out_line_joined = re.sub(" <JOIN_HYPHEN> ","",out_line)
             cur_line_ls = []
             j += 1
                 
-            fp_out.write(out_line_joined + '\n\n')
+            fp_out.write(out_line_joined.strip() + '\n\n')
         else:
             print('ERROR: lines_parag_end_ls is not 0/1')
             
