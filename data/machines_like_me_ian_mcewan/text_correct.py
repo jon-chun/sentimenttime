@@ -86,6 +86,8 @@ def ocr_correct(string, replacements, ignore_case=False):
 # open file
 err_ct = 0
 err_var_ct = 0
+
+lines_corrected_ls = []
 with open("machines_like_me_clean.txt", "r+") as fp_in:
     for i, aline in enumerate(fp_in):
         # Strip leading/trailing whitespace
@@ -111,6 +113,7 @@ with open("machines_like_me_clean.txt", "r+") as fp_in:
                          " cenI "   : " Then I ",
                          "d'you "   : "do you ",
                          "pered "   : "Whispered ",
+                         "Biots "   : "Riots ",
                          " I m "    : " I'm ",
                          " 1 m "    : " I'm ",
                          " 1 d "    : " I'd ",
@@ -132,10 +135,37 @@ with open("machines_like_me_clean.txt", "r+") as fp_in:
         # Expand contractions
         aline_exp_str = contractions.fix(aline_ocr_str)
         
-        # Lowercase
-        
         # aline_exp_str.translate(str.maketrans("", "", string.punctuation))
         aline_clean_str = aline_exp_str # re.sub(r"[^\w\s]", " ", aline_exp_str)
+
+        # Split sentence string into a list of word(s)
+        words_ls = aline_clean_str.split()
+
+        # Process each word
+        for aword in words_ls:
+            pass
+    
+        # Rejoin words into sentence
+        aline_final_str = ' '.join(words_ls).strip()
+
+        lines_corrected_ls.append(aline_final_str)
+
+        
+# UNCOMMENT EITHER (A) PRODUCTION or (B) DEBUGGING BELOW
+
+# (A) PRODUCTION
+# After the corpus has been debugged for OCR and other errors, This code is used 
+#   to create the an final orc cleaned file for downstream NLP processing
+#   like Sentiment Analysis or Topic Modeling
+
+with open("machines_like_me_clean_final.txt", "w+") as fp_out:
+    for i, out_line in enumerate(lines_corrected_ls):
+        fp_out.write(out_line.strip() + '\n')
+
+'''
+# (B) DEBUGGING 
+# This is for exploring the corpus and iteratively finding OCR errors 
+#   in order to add correction rules to the ocr_errors_dt
 
         if (i>=2000) and (i<3000):
             # Process each line one at a time
@@ -170,4 +200,5 @@ with open("machines_like_me_clean.txt", "r+") as fp_in:
         # print(f"LINE #{i}: {aline}")
         
     print(f'Total Error Count: {err_ct}, Total Error Variation Count: {err_var_ct}')
-    
+
+'''
