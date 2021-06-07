@@ -275,7 +275,7 @@ with open('machines_like_me_clean.txt', 'w+') as fp_out:
             cur_line_ls = []
             j += 1
                 
-            fp_out.write(out_line_joined.strip() + '\n\n')
+            
         else:
             print('ERROR: lines_parag_end_ls is not 0/1')
             

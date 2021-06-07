@@ -140,6 +140,7 @@ with open("machines_like_me_clean.txt", "r+") as fp_in:
         aline_ocr_str = ocr_correct(aline_str, ocr_errors_dt)
         
         # Expand contractions
+        # TODO: Correct for Capitalization or not
         aline_exp_str = contractions.fix(aline_ocr_str)
         
         # aline_exp_str.translate(str.maketrans("", "", string.punctuation))

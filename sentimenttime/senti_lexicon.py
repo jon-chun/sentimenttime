@@ -70,7 +70,7 @@ def sent2lex_sa(text, lexicon_dt='default', lang='en'):
     if lexicon_dt == 'default':
         lexicon_dt = get_lexicon('./data/syuzhet_dict.csv')
 
-    print(f"in sent2lex with text of type {type(text)}, text = {text}")
+    ### print(f"in sent2lex with text of type {type(text)}, text = {text}")
     
     # Remove all not alphanumeric and whitespace characters
     text = re.sub(r'[^\w\s]', '', text) 
@@ -88,13 +88,13 @@ def sent2lex_sa(text, lexicon_dt='default', lang='en'):
     
     # Preprocess text (e.g. lowercase, etc)
     # text = clean_text(text)
-    print(f"In sent2lex_sa with text= {text}")
+    ### print(f"In sent2lex_sa with text= {text}")
     
     seg_sa_fl = 0.0
     
     # if (sa_lexicon == 'syuzhet'):
     for a_word in text.split():
-        print(f"looking up the word: {a_word}")
+        ### print(f"looking up the word: {a_word}")
         # print(syuzhet_dt['harry'])
         try:
             word_sa_fl = float(lexicon_dt[a_word])
