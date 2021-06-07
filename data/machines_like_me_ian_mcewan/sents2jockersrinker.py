@@ -2,8 +2,24 @@ import sys
 import re
 import csv
 
-LEXICON_PATH = './lexicons/syuzhet_dict.csv'
-OUT_SENTIMENTS_CSV = "mlm_sentiment_syuzhet.csv"
+import pandas as pd
+
+import pyreadr
+
+# ALT: !wget raw leixcon files direct from sentimentr repo
+#      https://github.com/trinker/lexicon/tree/master/data 
+# https://github.com/trinker/lexicon/tree/master/data 
+
+# Convert local lexicon.rda files to python dict
+# JOCKERS_RINKER_PATH = './lexicons/hash_sentiment_jockers_rinker.rda'
+# jockers_rinker_dt = pyreadr.read_r(JOCKERS_RINKER_PATH)
+
+# done! let's see what we got
+# print(jockers_rinker_dt) # let's check what objects we got
+# df1 = jockers_rinker_dt["df1"] # extract the pandas data frame for object df1
+
+LEXICON_PATH = './lexicons/hash_sentiment_jockers_rinker.csv'
+OUT_SENTIMENTS_CSV = "mlm_sentiment_jockers_rinker.csv"
 
 lexicon_dt = {}
 
@@ -18,15 +34,14 @@ def get_lexicon(sa_lexicon='default'):
     """
     
     if (sa_lexicon == 'default'):
-        with open(LEXICON_PATH, newline='') as csvfile:
-            reader = csv.DictReader(csvfile, fieldnames='word')
-            for i, row in enumerate(reader):
-                # print(f"reading syuzhet row {i} with row: {row}")
-                lexicon_dt[row['o']] = row['r']
-            ## print(f"just read in {len(lexicon_dt.keys())} words into syuzhet_dt of type {type(lexicon_dt)}")
-    else:
-        ## print("ERROR: Only read syuzhet_dict for now")
-        pass
+        lexicon_df = pd.read_csv(LEXICON_PATH)
+        lexicon_df.columns = ['index_no', 'word', 'polarity']
+        lexicon_df.drop(['index_no'], axis=1, inplace=True)
+        lexicon_df.dropna(inplace=True)
+        lexicon_dt = lexicon_df.set_index('word').T.to_dict('list')
+        # unlist the polarity to type: float
+        for key in lexicon_dt:
+            lexicon_dt[key] = float(lexicon_dt[key][0])
         
     ### print(f"Exit get_sa_lex() with {len(lexicon_dt.keys())} entries in syuzhet_dt")
     return lexicon_dt

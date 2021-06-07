@@ -1,6 +1,8 @@
 import csv
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
+OUT_SENTIMENTS_CSV = "mlm_sentiment_vader.csv"
+
 analyzer = SentimentIntensityAnalyzer()
     
     
@@ -37,18 +39,8 @@ with open("mlm_sentences.txt", "r+") as fp_in:
             # print(f"VADER Compound Sentiment: {vs_compound}")
             sentiment_vader_ls.append(vs_compound)
 
-with open("mlm_sentiment_vader.csv", "w", newline='', encoding='utf-8') as fp_out:
+with open(OUT_SENTIMENTS_CSV, "w", newline='', encoding='utf-8') as fp_out:
     writer = csv.writer(fp_out, delimiter=',')
     writer.writerows(zip(corpus_lineno_ls, sentiment_vader_ls, corpus_sents_ls))
 
-        
-'''
-for asent in corpus_sents_ls:
-    senti_int = analyzer.polarity_scores(asent)
-    print("{:-<65} {}".format(asent, str(senti_int)))
-        
-with open("mlm_syuzhet.txt", "w+") as fp_out:
-    for i, aline in enumerate(corpus_sents_ls):
-        if True: # re_alpha.match(aline):
-            pass # fp_out.write(aline.strip() + '\n')
-'''
+    
