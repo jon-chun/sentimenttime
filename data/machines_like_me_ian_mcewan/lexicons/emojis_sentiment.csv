@@ -1,0 +1,735 @@
+"","byte","name","id","sentiment","polarity","category","frequency","negative","neutral","positive"
+"1","<f0><9f><98><80>","grinning face","lexiconnhlscfhhqlqocpjlbgkv",0.571753986332574,"positive","smileys & people",439,37,114,288
+"2","<f0><9f><98><81>","beaming face with smiling eyes","lexiconwpujksvgujncexktvyrn",0.449977158519872,"positive","smileys & people",2189,278,648,1263
+"3","<f0><9f><98><82>","face with tears of joy","lexiconhfasgeamcujygmeplmkn",0.220968403775133,"positive","smileys & people",14622,3614,4163,6845
+"4","<f0><9f><98><83>","grinning face with big eyes","lexiconacmkvtolcfbnqnbojygf",0.55804311774461,"positive","smileys & people",1206,86,361,759
+"5","<f0><9f><98><84>","grinning face with smiling eyes","lexiconwmfqfauheemspnjvgota",0.422031473533619,"positive","smileys & people",1398,191,426,781
+"6","<f0><9f><98><85>","grinning face with sweat","lexiconibjkxxzmsluvensxgups",0.17965367965368,"positive","smileys & people",462,135,109,218
+"7","<f0><9f><98><86>","grinning squinting face","lexiconciioffqjwyxbtfihswco",0.411764705882353,"positive","smileys & people",527,81,148,298
+"8","<f0><9f><98><89>","winking face","lexiconqgbydvkpbxwfbeiedhyc",0.464168310322156,"positive","smileys & people",1521,151,513,857
+"9","<f0><9f><98><8a>","smiling face with smiling eyes","lexiconsnkktgtzrpottszldgmj",0.644695543000628,"positive","smileys & people",3186,189,754,2243
+"10","<f0><9f><98><8b>","face savoring food","lexiconidlmnqwrsecbbnvlohxs",0.633514986376022,"positive","smileys & people",734,33,203,498
+"11","<f0><9f><98><8e>","smiling face with sunglasses","lexiconfnrwdrtzgxsrtkbtwnwd",0.493368700265252,"positive","smileys & people",754,79,224,451
+"12","<f0><9f><98><8d>","smiling face with heart-eyes","lexiconcrwuifjuvknlwfuhxnvt",0.677936782512974,"positive","smileys & people",6359,329,1390,4640
+"13","<f0><9f><98><98>","face blowing a kiss","lexiconiopbmsdxttewpfdvjlcv",0.701754385964912,"positive","smileys & people",3648,193,702,2753
+"14","<f0><9f><98><97>","kissing face","lexiconyhtkakgmiwezrftztsva",0.733333333333333,"positive","smileys & people",15,1,2,12
+"15","<f0><9f><98><99>","kissing face with smiling eyes","lexiconbzcyazyoqwwzszolxcne",0.790575916230366,"positive","smileys & people",191,3,34,154
+"16","<f0><9f><98><9a>","kissing face with closed eyes","lexiconjakpwsfjfvajskwdcfbp",0.714622641509434,"positive","smileys & people",424,20,81,323
+"17","<e2><98><ba>","smiling face","lexicontphzsggjizgpvfbtotby",0.658098933074685,"positive","smileys & people",2062,128,449,1485
+"18","<f0><9f><98><90>","neutral face","lexicondtidodwvhvxzpqjmvvss",-0.392592592592593,"negative","smileys & people",270,150,76,44
+"19","<f0><9f><98><91>","expressionless face","lexiconrhthcqkjtyzjjcpmtinb",-0.31438127090301,"negative","smileys & people",299,154,85,60
+"20","<f0><9f><98><b6>","face without mouth","lexiconokvvgkcnbfjrbrctdqdx",-0.145299145299145,"negative","smileys & people",117,50,34,33
+"21","<f0><9f><98><8f>","smirking face","lexiconxrqtxjvfdhrrwpcaldcm",0.33245729303548,"positive","smileys & people",1522,170,676,676
+"22","<f0><9f><98><a3>","persevering face","lexiconoqxwiyazqrccteibihdx",-0.214022140221402,"negative","smileys & people",271,147,35,89
+"23","<f0><9f><98><a5>","sad but relieved face","lexiconjzkdrpjxmftyoayjshxa",0.12316715542522,"positive","smileys & people",341,108,83,150
+"24","<f0><9f><98><ae>","face with open mouth","lexiconkgcjkinzqpuwfkasdjca",0.277777777777778,"positive","smileys & people",90,16,33,41
+"25","<f0><9f><98><af>","hushed face","lexiconyduguxqqshlgngjmjiwj",0.129032258064516,"positive","smileys & people",62,16,22,24
+"26","<f0><9f><98><aa>","sleepy face","lexiconwzvhboecgxwugidydpeq",-0.0809128630705394,"negative","smileys & people",482,208,105,169
+"27","<f0><9f><98><ab>","tired face","lexiconrzrzapnpvzuyouatnajz",-0.145610278372591,"negative","smileys & people",467,227,81,159
+"28","<f0><9f><98><b4>","sleeping face","lexiconkejliapszkyngfiittzs",-0.0807799442896936,"negative","smileys & people",718,303,170,245
+"29","<f0><9f><98><8c>","relieved face","lexiconqknddjwanrcongkspkxz",0.484210526315789,"positive","smileys & people",665,93,157,415
+"30","<f0><9f><98><9b>","face with tongue","lexiconodsjfmqyqxwvwhdwkbxq",0.609090909090909,"positive","smileys & people",220,18,50,152
+"31","<f0><9f><98><9c>","winking face with tongue","lexiconytsoghueoqqvipukcudm",0.456038647342995,"positive","smileys & people",1035,115,333,587
+"32","<f0><9f><98><9d>","squinting face with tongue","lexiconslxdzmmdkvzuyvcyzluz",0.425403225806452,"positive","smileys & people",496,65,155,276
+"33","<f0><9f><98><92>","unamused face","lexiconwivnupleicqgksianinp",-0.374729241877256,"negative","smileys & people",1385,819,266,300
+"34","<f0><9f><98><93>","downcast face with sweat","lexiconrxtrafgolujjmdnhpjsm",-0.0805860805860806,"negative","smileys & people",273,118,59,96
+"35","<f0><9f><98><94>","pensive face","lexiconxjpiijtegwyqgxqtzadl",-0.146058091286307,"negative","smileys & people",1205,559,263,383
+"36","<f0><9f><98><95>","confused face","lexiconeoxebfwozyrlxawstqzs",-0.4,"negative","smileys & people",340,205,66,69
+"37","<f0><9f><98><b2>","astonished face","lexiconwftzcecsecbuuwfuzbil",-0.0697674418604651,"negative","smileys & people",129,50,38,41
+"38","<e2><98><b9>","frowning face","lexiconmarkjdimpozzqmhtbmrj",-0.6,"negative","smileys & people",20,14,4,2
+"39","<f0><9f><98><96>","confounded face","lexiconhnjstwhzbhddgehazyla",-0.156716417910448,"negative","smileys & people",268,130,50,88
+"40","<f0><9f><98><9e>","disappointed face","lexicongeinqudhnnnsvyzlhexv",-0.118421052631579,"negative","smileys & people",532,255,85,192
+"41","<f0><9f><98><9f>","worried face","lexiconmnwezrrhfaajarejwtgk",0.075,"positive","smileys & people",80,28,18,34
+"42","<f0><9f><98><a4>","face with steam from nose","lexiconlxmdibyazcaraojkqeco",-0.211009174311927,"negative","smileys & people",327,157,82,88
+"43","<f0><9f><98><a2>","crying face","lexiconrhxehsuhsqkbgjxfysxj",0.00667556742323097,"positive","smileys & people",749,288,168,293
+"44","<f0><9f><98><ad>","loudly crying face","lexiconlevtnyuxjbmsvqcyeoms",-0.0933767643865364,"negative","smileys & people",5526,2412,1218,1896
+"45","<f0><9f><98><a6>","frowning face with open mouth","lexiconynfvvopemqeerixknsct",-0.388888888888889,"negative","smileys & people",54,30,15,9
+"46","<f0><9f><98><a7>","anguished face","lexiconwmbgazgokgiljumtvejb",-0.0652173913043478,"negative","smileys & people",92,36,26,30
+"47","<f0><9f><98><a8>","fearful face","lexiconglyhmlwwmfbtzifywymg",-0.141263940520446,"negative","smileys & people",269,117,73,79
+"48","<f0><9f><98><a9>","weary face","lexiconhdavvdkxckxxlzvqazxc",-0.368362831858407,"negative","smileys & people",1808,1069,336,403
+"49","<f0><9f><98><ac>","grimacing face","lexiconilkxxiunbagqowapbppn",0.196261682242991,"positive","smileys & people",214,57,58,99
+"50","<f0><9f><98><b0>","anxious face with sweat","lexiconvhjxxrngachiwvkrelfz",-0.0198675496688742,"negative","smileys & people",302,132,44,126
+"51","<f0><9f><98><b1>","face screaming in fear","lexiconvsgnoilfuuyqxgnnyowy",0.190265486725664,"positive","smileys & people",1130,298,319,513
+"52","<f0><9f><98><b3>","flushed face","lexiconctoeucmwvzwfqkqekcsp",0.0177304964539007,"positive","smileys & people",846,277,277,292
+"53","<f0><9f><98><b5>","dizzy face","lexiconcslngmtljotkydaaczxm",0.087378640776699,"positive","smileys & people",103,33,28,42
+"54","<f0><9f><98><a1>","pouting face","lexiconxrmzgzbexjwbutajcici",-0.173280423280423,"negative","smileys & people",756,403,81,272
+"55","<f0><9f><98><a0>","angry face","lexicondjewhgworxdquqafhjci",-0.302083333333333,"negative","smileys & people",288,163,49,76
+"56","<f0><9f><98><b7>","face with medical mask","lexiconjbgvavudqimtvfkpvxai",-0.170731707317073,"negative","smileys & people",246,117,54,75
+"57","<f0><9f><98><87>","smiling face with halo","lexicondhvfzsunkpoiycimqjtt",0.6,"positive","smileys & people",135,9,36,90
+"58","<f0><9f><98><88>","smiling face with horns","lexiconvvyzwgpuctmtveefflyj",0.267692307692308,"positive","smileys & people",325,66,106,153
+"59","<f0><9f><91><bf>","angry face with horns","lexicondeiibakyhhtagohzvslf",-0.557142857142857,"negative","smileys & people",70,47,15,8
+"60","<f0><9f><91><b9>","ogre","lexiconjhlgpgpnzvcesvzqpzvp",0.0612244897959184,"positive","smileys & people",49,13,20,16
+"61","<f0><9f><91><ba>","goblin","lexiconemmncsqcxscgkabdsuig",-0.210526315789474,"negative","smileys & people",19,8,7,4
+"62","<f0><9f><92><80>","skull","lexiconbezprfgfecbzsjezthmf",-0.208333333333333,"negative","smileys & people",456,214,123,119
+"63","<e2><98><a0>","skull and crossbones","lexiconliobgbmdhkznmdfxkhof",-0.037037037037037,"negative","smileys & people",27,7,14,6
+"64","<f0><9f><91><bb>","ghost","lexicondxtnqfjtxgefhtlojizu",0.232142857142857,"positive","smileys & people",168,28,73,67
+"65","<f0><9f><91><bd>","alien","lexiconvjockafotejubspkeihc",0.321917808219178,"positive","smileys & people",146,13,73,60
+"66","<f0><9f><91><be>","alien monster","lexiconfhutfcvnzhlqlfckrgva",0.371428571428571,"positive","smileys & people",105,1,64,40
+"67","<f0><9f><92><a9>","pile of poo","lexiconkmnzjsqyprzpjkwugonz",-0.117903930131004,"negative","smileys & people",229,94,68,67
+"68","<f0><9f><98><ba>","grinning cat face","lexiconrjjhpdxfbzfisixfqapu",0.425,"positive","smileys & people",40,8,7,25
+"69","<f0><9f><98><b8>","grinning cat face with smiling eyes","lexiconrbarxyqymaburkgnxrbr",0.422680412371134,"positive","smileys & people",97,11,34,52
+"70","<f0><9f><98><b9>","cat face with tears of joy","lexiconorgbfigoybaebstzvgug",0.142372881355932,"positive","smileys & people",295,88,77,130
+"71","<f0><9f><98><bb>","smiling cat face with heart-eyes","lexiconkggrsctibjjwscbpkdia",0.623501199040767,"positive","smileys & people",417,28,101,288
+"72","<f0><9f><98><bc>","cat face with wry smile","lexicondorrprcjuyhfbkewwtvv",0.392857142857143,"positive","smileys & people",28,5,7,16
+"73","<f0><9f><98><bd>","kissing cat face","lexiconfnibdgihfehvfmeomujn",0.590909090909091,"positive","smileys & people",88,11,14,63
+"74","<f0><9f><99><80>","weary cat face","lexiconalammpjbkibfeyfostlf",0.340909090909091,"positive","smileys & people",88,14,30,44
+"75","<f0><9f><98><bf>","crying cat face","lexiconjehejotpxuwitrwfokry",-0.380597014925373,"negative","smileys & people",134,78,29,27
+"76","<f0><9f><98><be>","pouting cat face","lexiconavrcwdbwjhhgqrwdizzt",-0.363636363636364,"negative","smileys & people",33,20,5,8
+"77","<f0><9f><99><88>","see-no-evil monkey","lexiconwqqbrajhxgidmkqbwekb",0.432692307692308,"positive","smileys & people",1456,238,350,868
+"78","<f0><9f><99><89>","hear-no-evil monkey","lexiconvoiugqddhuoexryhpguz",0.34,"positive","smileys & people",150,26,47,77
+"79","<f0><9f><99><8a>","speak-no-evil monkey","lexicongtpqfoprgpthirjasaoj",0.460689655172414,"positive","smileys & people",725,97,197,431
+"80","<f0><9f><91><b6>","baby","lexiconukknslmzfwbqwlahpjud",0.447916666666667,"positive","smileys & people",96,13,27,56
+"81","<f0><9f><91><a6>","boy","lexiconalslmmdgtbgcjcghvxvw",0.148148148148148,"positive","smileys & people",27,5,13,9
+"82","<f0><9f><91><a7>","girl","lexiconqwewunrrmgssujitgemw",0.15,"positive","smileys & people",40,10,14,16
+"83","<f0><9f><91><a8>","man","lexiconurwmjeecpkmakjdnoqok",0.571428571428571,"positive","smileys & people",28,2,8,18
+"84","<f0><9f><91><a9>","woman","lexiconeunsuhduzmhovzojenuu",0.0740740740740741,"positive","smileys & people",27,9,7,11
+"85","<f0><9f><91><b4>","old man","lexicondsrxpahlnxtobdsxewtb",0.260869565217391,"positive","smileys & people",23,5,7,11
+"86","<f0><9f><91><b5>","old woman","lexiconghletlcoyvflfowfompn",0.478260869565217,"positive","smileys & people",23,5,2,16
+"87","<f0><9f><91><ae>","police officer","lexiconcvydnwxqqsujwxmslbte",-0.4,"negative","smileys & people",20,10,8,2
+"88","<f0><9f><92><82>","guard","lexiconsqixrtfxpskbmritlfbu",-0.176470588235294,"negative","smileys & people",17,8,4,5
+"89","<f0><9f><91><b7>","construction worker","lexiconxzppqkwhktmjfzzjuuvo",0.333333333333333,"positive","smileys & people",6,1,2,3
+"90","<f0><9f><91><b8>","princess","lexicondabnkaokgwyvmrgsicze",0.621621621621622,"positive","smileys & people",111,6,30,75
+"91","<f0><9f><91><b3>","person wearing turban","lexiconsnwjuuxqsolqijpaoate",0.722222222222222,"positive","smileys & people",18,2,1,15
+"92","<f0><9f><91><b2>","man with Chinese cap","lexiconozfmirpkkovawdkojrbm",0.5,"positive","smileys & people",2,0,1,1
+"93","<f0><9f><91><b1>","blond-haired person","lexiconsftqysbcxdlzyzzjxdrl",0.142857142857143,"positive","smileys & people",7,1,4,2
+"94","<f0><9f><91><b0>","bride with veil","lexiconwxrnwusfjyogtvydvaes",0.53125,"positive","smileys & people",32,3,9,20
+"95","<f0><9f><91><bc>","baby angel","lexiconhjxlhvmfxgpjurkhvppa",0.343434343434343,"positive","smileys & people",99,17,31,51
+"96","<f0><9f><8e><85>","Santa Claus","lexiconswwujbszysyhpdiuaegk",0.321167883211679,"positive","smileys & people",274,7,172,95
+"97","<f0><9f><99><8d>","person frowning","lexiconngjizvbatrcmjcnfqmuj",-0.346938775510204,"negative","smileys & people",49,29,8,12
+"98","<f0><9f><99><8e>","person pouting","lexiconsrxthuoxhsflbrgahbgl",-0.0588235294117647,"negative","smileys & people",17,8,2,7
+"99","<f0><9f><99><85>","person gesturing NO","lexiconsthhrgtqimforcfsplun",-0.206060606060606,"negative","smileys & people",165,76,47,42
+"100","<f0><9f><99><86>","person gesturing OK","lexiconzvtzmicrgzubstpqmjlx",0.508771929824561,"positive","smileys & people",171,15,54,102
+"101","<f0><9f><92><81>","person tipping hand","lexiconwepxpkujkapajzwccxwl",0.327868852459016,"positive","smileys & people",549,105,159,285
+"102","<f0><9f><99><8b>","person raising hand","lexiconlkugyblvikedwfkedmix",0.491525423728814,"positive","smileys & people",236,30,60,146
+"103","<f0><9f><99><87>","person bowing","lexiconfbtpshlyjehmgfxwfcbe",0.144578313253012,"positive","smileys & people",83,24,23,36
+"104","<f0><9f><92><86>","person getting massage","lexiconytttwfdsbgdgmcysrjtf",0.228260869565217,"positive","smileys & people",92,24,23,45
+"105","<f0><9f><92><87>","person getting haircut","lexiconylumodeywwmqgekjteje",0.347826086956522,"positive","smileys & people",46,7,16,23
+"106","<f0><9f><9a><b6>","person walking","lexiconwknnasgueiicggptyzbx",-0.148648648648649,"negative","smileys & people",74,28,29,17
+"107","<f0><9f><8f><83>","person running","lexiconihzupqkvdlkgyypqwbiy",0.414814814814815,"positive","smileys & people",135,12,55,68
+"108","<f0><9f><92><83>","woman dancing","lexiconduvibijlpexlbpwioqeg",0.735863095238095,"positive","smileys & people",1344,59,237,1048
+"109","<f0><9f><91><af>","people with bunny ears","lexiconglqlzkrtavmhaaagbhhi",0.445497630331754,"positive","smileys & people",211,24,69,118
+"110","<f0><9f><9b><80>","person taking bath","lexiconrjjukapkcraobetguxgo",0.142857142857143,"positive","smileys & people",21,6,6,9
+"111","<f0><9f><91><a4>","bust in silhouette","lexiconbykzpceqxmoiyltzzosg",0.8,"positive","smileys & people",5,0,1,4
+"112","<f0><9f><91><a5>","busts in silhouette","lexiconautbqcuumhdfeydrmdcg",0.333333333333333,"positive","smileys & people",6,1,2,3
+"113","<f0><9f><8f><87>","horse racing","lexiconkzdizcybpxcffzhaulzw",-0.142857142857143,"negative","smileys & people",7,3,2,2
+"114","<f0><9f><8f><82>","snowboarder","lexiconhkixbvvfalxxpygvpwpb",0.5,"positive","smileys & people",10,1,3,6
+"115","<f0><9f><8f><84>","person surfing","lexiconemdomcjdwxlqupwoeygl",0.564102564102564,"positive","smileys & people",39,2,13,24
+"116","<f0><9f><9a><a3>","person rowing boat","lexiconsxcdnwsctxhapahwrblm",0.727272727272727,"positive","smileys & people",11,0,3,8
+"117","<f0><9f><8f><8a>","person swimming","lexicontrtqilzqcylpldmqztet",0.597402597402597,"positive","smileys & people",77,2,27,48
+"118","<f0><9f><9a><b4>","person biking","lexiconlxaihjtxzyuqmicepcnj",0.71875,"positive","smileys & people",32,0,9,23
+"119","<f0><9f><9a><b5>","person mountain biking","lexiconaruajlvbkulxmarigfkv",0.428571428571429,"positive","smileys & people",14,0,8,6
+"120","<f0><9f><91><ab>","man and woman holding hands","lexiconlfsnkfmpwdacbbpqrqmf",0.258883248730964,"positive","smileys & people",197,43,60,94
+"121","<f0><9f><91><ac>","two men holding hands","lexiconytaenmqmotiwrcxvaytn",-0.0609756097560976,"negative","smileys & people",82,29,29,24
+"122","<f0><9f><91><ad>","two women holding hands","lexicontzpmxeqdymwucxvbhgwn",0.472222222222222,"positive","smileys & people",144,20,36,88
+"123","<f0><9f><92><8f>","kiss","lexicondqdlsfosasxwdoehxyxz",0.394594594594595,"positive","smileys & people",185,33,46,106
+"124","<f0><9f><92><91>","couple with heart","lexiconaohubyxcbnwgazaupvnt",0.682926829268293,"positive","smileys & people",82,5,16,61
+"125","<f0><9f><91><aa>","family","lexiconuuaswjxfyydwchiwsuif",-0.0175438596491228,"negative","smileys & people",57,24,10,23
+"126","<f0><9f><92><aa>","flexed biceps","lexiconkyvphnrlkbxdsznjered",0.555713271823989,"positive","smileys & people",1409,101,424,884
+"127","<f0><9f><91><88>","backhand index pointing left","lexiconcvnclsdrumtvcivkwdrp",0.431034482758621,"positive","smileys & people",174,14,71,89
+"128","<f0><9f><91><89>","backhand index pointing right","lexiconvteqpgcvlrsjrlwuzeoi",0.393835616438356,"positive","smileys & people",292,20,137,135
+"129","<e2><98><9d>","index pointing up","lexiconvnxjgkmztktzadkhobuk",0.31413612565445,"positive","smileys & people",191,27,77,87
+"130","<f0><9f><91><86>","backhand index pointing up","lexiconrhmiblkzjsxonzmwulvx",0.333333333333333,"positive","smileys & people",138,16,60,62
+"131","<f0><9f><91><87>","backhand index pointing down","lexiconamvhideosuwzbnwomhsc",0.25531914893617,"positive","smileys & people",94,13,44,37
+"132","<e2><9c><8c>","victory hand","lexiconqawutyedvwreqkounjym",0.464146023468057,"positive","smileys & people",1534,173,476,885
+"133","<e2><9c><8b>","raised hand","lexiconbumdxqrdoefrplemnwtm",0.126984126984127,"positive","smileys & people",378,124,82,172
+"134","<f0><9f><91><8c>","OK hand","lexiconpckuzhedpunfbbxrjtny",0.563760683760684,"positive","smileys & people",2925,274,728,1923
+"135","<f0><9f><91><8d>","thumbs up","lexiconkfkgcifnqxfrrqtlxrru",0.522114347357066,"positive","smileys & people",1854,213,460,1181
+"136","<f0><9f><91><8e>","thumbs down","lexiconhpjatpptkxybafvllqxw",-0.189922480620155,"negative","smileys & people",258,128,51,79
+"137","<e2><9c><8a>","raised fist","lexiconscyqjboamtcnvorqbwfv",0.433333333333333,"positive","smileys & people",270,37,79,154
+"138","<f0><9f><91><8a>","oncoming fist","lexicongeybmnfuktcuboaxdvst",0.229257641921397,"positive","smileys & people",458,121,111,226
+"139","<f0><9f><91><8b>","waving hand","lexiconzkjkqjhreiqudashkukx",0.416230366492147,"positive","smileys & people",382,60,103,219
+"140","<e2><9c><8d>","writing hand","lexiconvygwtlyrpywfarytvfis",1,"positive","smileys & people",1,0,0,1
+"141","<f0><9f><91><8f>","clapping hands","lexiconpykrycywkgayhdvpdgzy",0.520547945205479,"positive","smileys & people",2336,243,634,1459
+"142","<f0><9f><91><90>","open hands","lexicontfojddohktgjgyzmiwlc",-0.0240963855421687,"negative","smileys & people",83,33,19,31
+"143","<f0><9f><99><8c>","raising hands","lexiconhqyaykagvmcxbxxblzgd",0.560424966799469,"positive","smileys & people",1506,152,358,996
+"144","<f0><9f><99><8f>","folded hands","lexiconpvkqngczrvztztvymdbk",0.417803768680962,"positive","smileys & people",1539,124,648,767
+"145","<f0><9f><92><85>","nail polish","lexiconqjpctdwfbxxoukzwbimy",0.395973154362416,"positive","smileys & people",149,27,36,86
+"146","<f0><9f><91><82>","ear","lexiconuaddskklngskdwwyqkfs",-0.157894736842105,"negative","smileys & people",19,7,8,4
+"147","<f0><9f><91><83>","nose","lexiconcvzqximevdxnzpvlguor",0,"neutral","smileys & people",4,2,0,2
+"148","<f0><9f><91><a3>","footprints","lexiconmbxjhgatabfzvwcvyjof",0.362068965517241,"positive","smileys & people",58,6,25,27
+"149","<f0><9f><91><80>","eyes","lexiconfuwrrekxnfzkmlugzvgp",0.0634146341463415,"positive","smileys & people",410,93,198,119
+"150","<f0><9f><91><85>","tongue","lexiconubfxaibfyvliqmzuglrd",0.468421052631579,"positive","smileys & people",190,23,55,112
+"151","<f0><9f><91><84>","mouth","lexiconpcnwjffenoiniolymhsv",0.493333333333333,"positive","smileys & people",75,5,28,42
+"152","<f0><9f><92><8b>","kiss mark","lexiconfsatbzxcwzcyyhvhdimn",0.693460490463215,"positive","smileys & people",734,28,169,537
+"153","<f0><9f><92><98>","heart with arrow","lexiconmazjjkevdtbopeipqgyp",0.688607594936709,"positive","smileys & people",395,18,87,290
+"154","<e2><9d><a4>","red heart","lexiconicsvimuieasonqnldbba",0.746086956521739,"positive","smileys & people",8050,355,1334,6361
+"155","<f0><9f><92><93>","beating heart","lexiconzcsbltvxolbkwhaaheha",0.671814671814672,"positive","smileys & people",259,15,55,189
+"156","<f0><9f><92><94>","broken heart","lexiconxvjudvgtxgykbwviekdo",-0.121951219512195,"negative","smileys & people",328,136,96,96
+"157","<f0><9f><92><95>","two hearts","lexiconwpmuduwgbxxrxeltrueb",0.632916666666667,"positive","smileys & people",2400,99,683,1618
+"158","<f0><9f><92><96>","sparkling heart","lexiconowlppliscuwqyewycvsv",0.713380839271576,"positive","smileys & people",1263,54,254,955
+"159","<f0><9f><92><97>","growing heart","lexiconafkokayeefobvbopyrpo",0.659090909090909,"positive","smileys & people",836,42,201,593
+"160","<f0><9f><92><99>","blue heart","lexiconylwrcdonbwjtwojwvser",0.732456140350877,"positive","smileys & people",912,29,186,697
+"161","<f0><9f><92><9a>","green heart","lexiconynrrfcuwtrrlsfzepljg",0.659217877094972,"positive","smileys & people",537,41,101,395
+"162","<f0><9f><92><9b>","yellow heart","lexiconxbwhfeflxbuupjezgdwl",0.712624584717608,"positive","smileys & people",602,25,123,454
+"163","<f0><9f><92><9c>","purple heart","lexiconsdgsqsvlwwtjuglizplp",0.656017039403621,"positive","smileys & people",939,41,241,657
+"164","<f0><9f><92><9d>","heart with ribbon","lexiconwmeryjfxlrlbaillqugu",0.660869565217391,"positive","smileys & people",115,8,23,84
+"165","<f0><9f><92><9e>","revolving hearts","lexiconqbcbqxrzhfwxxnsgjiyd",0.74235807860262,"positive","smileys & people",687,27,123,537
+"166","<f0><9f><92><9f>","heart decoration","lexiconlnshtpaxbcvuznjjpnoo",0.714285714285714,"positive","smileys & people",63,3,12,48
+"167","<e2><9d><a3>","heavy heart exclamation","lexiconupfqoxxaszuzsylmqgax",1,"positive","smileys & people",1,0,0,1
+"168","<f0><9f><92><8c>","love letter","lexicontpllzlwnnobbbsyhutug",0.588235294117647,"positive","smileys & people",17,2,3,12
+"169","<f0><9f><92><a4>","zzz","lexiconfxxghkxtvrvljiyxrbbh",0.374531835205993,"positive","smileys & people",267,38,91,138
+"170","<f0><9f><92><a2>","anger symbol","lexiconeslpeyzewokzqdwwbieg",0.25,"positive","smileys & people",40,6,18,16
+"171","<f0><9f><92><a3>","bomb","lexiconlieovrpdglbpulanrjnv",0.00763358778625954,"positive","smileys & people",131,40,50,41
+"172","<f0><9f><92><a5>","collision","lexiconlvbyvwjdzfsiifmnaajt",0.148936170212766,"positive","smileys & people",329,23,234,72
+"173","<f0><9f><92><a6>","sweat droplets","lexiconxzxzhzqlrgjiivtpqloi",0.476190476190476,"positive","smileys & people",252,35,62,155
+"174","<f0><9f><92><a8>","dashing away","lexiconczoshjdquugilefdagkr",0.391304347826087,"positive","smileys & people",115,12,46,57
+"175","<f0><9f><92><ab>","dizzy","lexiconenfljclyjliaiaiyokmp",0.512396694214876,"positive","smileys & people",121,4,51,66
+"176","<f0><9f><92><ac>","speech balloon","lexiconhsjwojipoxjrloqinhtq",0.4,"positive","smileys & people",30,4,10,16
+"177","<f0><9f><92><ad>","thought balloon","lexiconykaqwnoweudprmdnifio",0.216666666666667,"positive","smileys & people",60,10,27,23
+"178","<f0><9f><91><93>","glasses","lexiconwifxuhsxmuxsfpxsifzi",0.333333333333333,"positive","smileys & people",24,0,16,8
+"179","<f0><9f><91><94>","necktie","lexiconemtwkgqvnilvhrkzqwjf",0.416666666666667,"positive","smileys & people",12,2,3,7
+"180","<f0><9f><91><95>","t-shirt","lexiconoyqppaqoxlapufuumucu",0.5,"positive","smileys & people",12,1,4,7
+"181","<f0><9f><91><96>","jeans","lexiconmcqpuutnsnjatbybythb",0.4,"positive","smileys & people",15,1,7,7
+"182","<f0><9f><91><97>","dress","lexiconkyqviiuivvwomqaqjwqf",0.258064516129032,"positive","smileys & people",31,5,13,13
+"183","<f0><9f><91><98>","kimono","lexiconljcpnkvlysjvasxtzpki",1,"positive","smileys & people",2,0,0,2
+"184","<f0><9f><91><99>","bikini","lexiconawgpkqxechnupllyzjsz",0.540540540540541,"positive","smileys & people",37,3,11,23
+"185","<f0><9f><91><9a>","woman's clothes","lexiconpivvzfaxuwtrdcjisymf",0.727272727272727,"positive","smileys & people",11,0,3,8
+"186","<f0><9f><91><9b>","purse","lexiconhfasamliisdvkhiogior",0.4,"positive","smileys & people",25,4,7,14
+"187","<f0><9f><91><9c>","handbag","lexiconarmyvogqfxuwkocapvvx",0.285714285714286,"positive","smileys & people",14,2,6,6
+"188","<f0><9f><91><9d>","clutch bag","lexiconvaozxejukdgggycghdya",0.5,"positive","smileys & people",6,1,1,4
+"189","<f0><9f><8e><92>","school backpack","lexiconlsuqiyogbayfbzcazubp",0.6,"positive","smileys & people",10,1,2,7
+"190","<f0><9f><91><9e>","man's shoe","lexiconhgckqodtbesfktrwnkme",0.545454545454545,"positive","smileys & people",11,1,3,7
+"191","<f0><9f><91><9f>","running shoe","lexiconsebyzjuetaavlykadavd",0.444444444444444,"positive","smileys & people",45,5,15,25
+"192","<f0><9f><91><a0>","high-heeled shoe","lexiconoawmpjjptcgkunvablvn",0.380952380952381,"positive","smileys & people",42,6,14,22
+"193","<f0><9f><91><a1>","woman's sandal","lexiconlzxkolycpbxzfxgdndhl",0.5,"positive","smileys & people",10,1,3,6
+"194","<f0><9f><91><a2>","woman's boot","lexiconylcimqfcqfejoaohzsdx",0.8,"positive","smileys & people",5,0,1,4
+"195","<f0><9f><91><91>","crown","lexiconnxycjtuvpzzskihkzvfl",0.701342281879195,"positive","smileys & people",298,12,65,221
+"196","<f0><9f><91><92>","woman's hat","lexiconkjgmbapiuonkdepknzwr",0.285714285714286,"positive","smileys & people",7,1,3,3
+"197","<f0><9f><8e><a9>","top hat","lexiconypujokowsnohblmijdkd",0.4,"positive","smileys & people",5,0,3,2
+"198","<f0><9f><8e><93>","graduation cap","lexicongmvzdblndigmrzvkpucm",0.584415584415584,"positive","smileys & people",77,7,18,52
+"199","<f0><9f><92><84>","lipstick","lexicongijigeostbfucswklskp",0.454545454545455,"positive","smileys & people",66,6,24,36
+"200","<f0><9f><92><8d>","ring","lexiconwjfhkpcsgcjtotwlapxa",0.491071428571429,"positive","smileys & people",112,16,25,71
+"201","<f0><9f><92><8e>","gem stone","lexiconjbuzhgexmwdacdndetzw",0.569377990430622,"positive","smileys & people",209,11,68,130
+"202","<f0><9f><90><b5>","monkey face","lexiconwltxtpzwtvbeffdnfltg",0.55,"positive","animals & nature",20,1,7,12
+"203","<f0><9f><90><92>","monkey","lexiconplbsezvdftfthpouqiib",0.544117647058823,"positive","animals & nature",68,1,29,38
+"204","<f0><9f><90><b6>","dog face","lexiconywzjtrrfxpbgqdjikfqi",0.587837837837838,"positive","animals & nature",148,12,37,99
+"205","<f0><9f><90><95>","dog","lexiconldvnupjngaumuwlgafnb",0.3,"positive","animals & nature",10,1,5,4
+"206","<f0><9f><90><a9>","poodle","lexiconssdiyvhjggnfxtsssblg",0.411764705882353,"positive","animals & nature",17,0,10,7
+"207","<f0><9f><90><ba>","wolf face","lexiconazewberjgqowstjgulkz",0.263157894736842,"positive","animals & nature",19,2,10,7
+"208","<f0><9f><90><b1>","cat face","lexiconforvsjguqlpkjnmeqgqm",0.534246575342466,"positive","animals & nature",73,10,14,49
+"209","<f0><9f><90><88>","cat","lexicontoykcmzjltlpgtpncndw",0.357142857142857,"positive","animals & nature",14,0,9,5
+"210","<f0><9f><90><af>","tiger face","lexiconyvomdjakdxetxweeeusi",0.49,"positive","animals & nature",100,4,43,53
+"211","<f0><9f><90><85>","tiger","lexiconbfalxvockmnmtmycmwyq",0.2,"positive","animals & nature",5,0,4,1
+"212","<f0><9f><90><86>","leopard","lexiconpfueqqwwmzcbmxzvabyo",0.428571428571429,"positive","animals & nature",7,0,4,3
+"213","<f0><9f><90><b4>","horse face","lexiconyngihsbmxjrmowazgyco",0.075,"positive","animals & nature",40,8,21,11
+"214","<f0><9f><90><8e>","horse","lexiconylkmcrfytguockexbjkp",0.454545454545455,"positive","animals & nature",22,2,8,12
+"215","<f0><9f><90><ae>","cow face","lexiconoouxtpgojnjeornqxarz",0.627906976744186,"positive","animals & nature",43,2,12,29
+"216","<f0><9f><90><82>","ox","lexiconxbaxqciinjhsemwkcaak",0.181818181818182,"positive","animals & nature",11,1,7,3
+"217","<f0><9f><90><83>","water buffalo","lexiconplfhdxudfkzrozkfsheq",0,"neutral","animals & nature",8,0,8,0
+"218","<f0><9f><90><84>","cow","lexiconydgxgnuponavuiqjjufx",0.333333333333333,"positive","animals & nature",15,2,6,7
+"219","<f0><9f><90><b7>","pig face","lexiconsrazxwuqklwkufhkywux",0.375,"positive","animals & nature",152,11,73,68
+"220","<f0><9f><90><96>","pig","lexicongsoangsosxqkuafczlfi",0.176470588235294,"positive","animals & nature",17,0,14,3
+"221","<f0><9f><90><97>","boar","lexiconqyqhjzsbjepbtiipbdgp",0.625,"positive","animals & nature",8,0,3,5
+"222","<f0><9f><90><bd>","pig nose","lexiconerehsetnuuddqvdjtxwc",0.136363636363636,"positive","animals & nature",22,5,9,8
+"223","<f0><9f><90><8f>","ram","lexiconbwskgrhfnegpfrskfmub",0.6,"positive","animals & nature",40,2,12,26
+"224","<f0><9f><90><91>","ewe","lexiconmoomnnwhcwysbiyffrol",-0.19047619047619,"negative","animals & nature",21,6,13,2
+"225","<f0><9f><90><90>","goat","lexiconaonfahctdqgzpeczhhth",0.555555555555556,"positive","animals & nature",9,0,4,5
+"226","<f0><9f><90><aa>","camel","lexicondxvmgnyavqjithbxcmly",0.692307692307692,"positive","animals & nature",13,0,4,9
+"227","<f0><9f><90><ab>","two-hump camel","lexiconhxuclcajmohmurpuojcs",0.416666666666667,"positive","animals & nature",12,0,7,5
+"228","<f0><9f><90><98>","elephant","lexiconwobzubwjskdwowwnjkoo",0.025,"positive","animals & nature",40,9,21,10
+"229","<f0><9f><90><ad>","mouse face","lexiconhmkhaqgpycbhhqgtmfye",0.733333333333333,"positive","animals & nature",45,0,12,33
+"230","<f0><9f><90><81>","mouse","lexiconxoihedxbmgkfedtypyor",-0.4,"negative","animals & nature",5,2,3,0
+"231","<f0><9f><90><80>","rat","lexiconfemdhaymsqpgwtlbqffn",0.181818181818182,"positive","animals & nature",11,1,7,3
+"232","<f0><9f><90><b9>","hamster face","lexiconicgwqtabierkjnsryrsp",0.357142857142857,"positive","animals & nature",14,3,3,8
+"233","<f0><9f><90><b0>","rabbit face","lexiconenyusrkhsprfeeuenjdu",0.618181818181818,"positive","animals & nature",55,4,13,38
+"234","<f0><9f><90><87>","rabbit","lexiconmueadigxkdqoarasauno",0.260869565217391,"positive","animals & nature",23,4,9,10
+"235","<f0><9f><90><bb>","bear face","lexiconoibphxsqouyxybkzpgmz",0.468085106382979,"positive","animals & nature",47,6,13,28
+"236","<f0><9f><90><a8>","koala","lexiconarhbvhfbcvkjkzhkxmqf",0.484848484848485,"positive","animals & nature",33,4,9,20
+"237","<f0><9f><90><bc>","panda face","lexiconoeccovhkcsmrfiardqwq",0.272727272727273,"positive","animals & nature",66,4,40,22
+"238","<f0><9f><90><be>","paw prints","lexiconxkdkvlzspbiheniqnwpv",0.628205128205128,"positive","animals & nature",78,8,13,57
+"239","<f0><9f><90><94>","chicken","lexiconfghllnrmbecooddwtlum",0.352941176470588,"positive","animals & nature",17,1,9,7
+"240","<f0><9f><90><93>","rooster","lexiconzqopzjovmovjgvxtwwvg",0.0286458333333333,"positive","animals & nature",384,41,291,52
+"241","<f0><9f><90><a3>","hatching chick","lexiconsayzyzbknsehieamapib",0.493827160493827,"positive","animals & nature",81,12,17,52
+"242","<f0><9f><90><a4>","baby chick","lexicontepaxqkzncfhbvnyxmre",0.590909090909091,"positive","animals & nature",22,1,7,14
+"243","<f0><9f><90><a5>","front-facing baby chick","lexicondkalahpnckdpxgbqdrgq",0.611940298507463,"positive","animals & nature",67,4,18,45
+"244","<f0><9f><90><a6>","bird","lexiconeeyuoexsxcmqlljeaktd",0.5,"positive","animals & nature",16,0,8,8
+"245","<f0><9f><90><a7>","penguin","lexiconhepnobqvsvwjappdmpqm",0.461267605633803,"positive","animals & nature",284,11,131,142
+"246","<f0><9f><90><b8>","frog face","lexiconblihcjpsajjwfnoubete",-0.0833333333333333,"negative","animals & nature",72,24,30,18
+"247","<f0><9f><90><8a>","crocodile","lexiconjqyqzeumfjwkpgqcswyb",0.1,"positive","animals & nature",10,2,5,3
+"248","<f0><9f><90><a2>","turtle","lexiconrpmxwggnypsyjyobpiwu",0.216216216216216,"positive","animals & nature",37,6,17,14
+"249","<f0><9f><90><8d>","snake","lexiconfqifxjrqmwbrjfdsfzpq",0.382352941176471,"positive","animals & nature",34,3,15,16
+"250","<f0><9f><90><b2>","dragon face","lexiconzzbkclonxbjkwaoyfrkk",-0.0625,"negative","animals & nature",16,2,13,1
+"251","<f0><9f><90><89>","dragon","lexiconghjvtwmisjkgpzeaqhis",0.2,"positive","animals & nature",10,0,8,2
+"252","<f0><9f><90><b3>","spouting whale","lexiconcxmgkuhjdexrmrfboaii",0.15,"positive","animals & nature",20,4,9,7
+"253","<f0><9f><90><8b>","whale","lexiconjvugwkysyiumgkmiwfim",0.25,"positive","animals & nature",12,2,5,5
+"254","<f0><9f><90><ac>","dolphin","lexiconbrmbdpzgnlhaulnxcbek",0.457142857142857,"positive","animals & nature",35,2,15,18
+"255","<f0><9f><90><9f>","fish","lexiconeqcxuvloyqzbjbmyxtmo",0.724137931034483,"positive","animals & nature",58,2,12,44
+"256","<f0><9f><90><a0>","tropical fish","lexiconvaooxjtkwmppftetpwaw",0.461538461538462,"positive","animals & nature",26,4,6,16
+"257","<f0><9f><90><a1>","blowfish","lexiconqvjtwcvezwxligwidkbp",0.333333333333333,"positive","animals & nature",6,0,4,2
+"258","<f0><9f><90><99>","octopus","lexiconhlhiyzugftdmsgsktylq",0.428571428571429,"positive","animals & nature",28,2,12,14
+"259","<f0><9f><90><9a>","spiral shell","lexiconfziszlylzypkdymnqzfw",0.263157894736842,"positive","animals & nature",19,1,12,6
+"260","<f0><9f><90><8c>","snail","lexiconlxkbfhczyiaeynzilwgl",0.785714285714286,"positive","animals & nature",14,0,3,11
+"261","<f0><9f><90><9b>","bug","lexiconplnvihttddypzncmkede",0.333333333333333,"positive","animals & nature",12,2,4,6
+"262","<f0><9f><90><9c>","ant","lexiconbuvwfpmflrigtirrmpbl",0.666666666666667,"positive","animals & nature",6,0,2,4
+"263","<f0><9f><90><9d>","honeybee","lexiconnpakkbircunursqqjulo",0.228571428571429,"positive","animals & nature",35,5,17,13
+"264","<f0><9f><90><9e>","lady beetle","lexiconardavfsypdrprdnqracu",0.333333333333333,"positive","animals & nature",3,0,2,1
+"265","<f0><9f><92><90>","bouquet","lexiconqdpxprjnqttgzrkatwov",0.757894736842105,"positive","animals & nature",95,3,17,75
+"266","<f0><9f><8c><b8>","cherry blossom","lexiconrjtdktewiidaobvitjie",0.652219873150106,"positive","animals & nature",946,37,255,654
+"267","<f0><9f><8c><b9>","rose","lexiconqgmtkgjunozrvbmjcjxo",0.61046511627907,"positive","animals & nature",172,3,61,108
+"268","<f0><9f><8c><ba>","hibiscus","lexiconzwpgyzpplulfsoqqapss",0.56,"positive","animals & nature",150,2,62,86
+"269","<f0><9f><8c><bb>","sunflower","lexiconqprflweklvvhognoiezm",0.586538461538462,"positive","animals & nature",104,1,41,62
+"270","<f0><9f><8c><bc>","blossom","lexiconwcrgmtyzovyelnswbupa",0.810810810810811,"positive","animals & nature",74,1,12,61
+"271","<f0><9f><8c><b7>","tulip","lexiconnrsbivngqtysleknifpp",0.551724137931034,"positive","animals & nature",116,0,52,64
+"272","<f0><9f><8c><b1>","seedling","lexiconnaxkgvuokwgpadxicmza",0.64,"positive","animals & nature",25,0,9,16
+"273","<f0><9f><8c><b2>","evergreen tree","lexiconfcqkalhlhjrldtssyfkd",0.434782608695652,"positive","animals & nature",23,2,9,12
+"274","<f0><9f><8c><b3>","deciduous tree","lexiconoxtxivqvhukeirzfvkkr",0.53125,"positive","animals & nature",32,2,11,19
+"275","<f0><9f><8c><b4>","palm tree","lexiconlkmgvmeptiaxzdlyxlox",0.533707865168539,"positive","animals & nature",178,13,57,108
+"276","<f0><9f><8c><b5>","cactus","lexiconqlsoomjftrufxokeesqm",0.217391304347826,"positive","animals & nature",23,6,6,11
+"277","<f0><9f><8c><be>","sheaf of rice","lexiconrvdmqswvnnztjfxhoums",0.583333333333333,"positive","animals & nature",36,5,5,26
+"278","<f0><9f><8c><bf>","herb","lexiconeqqdvmtjbetufyxjbacw",0.389423076923077,"positive","animals & nature",208,1,125,82
+"279","<f0><9f><8d><80>","four leaf clover","lexiconbdslkptirbakjxawleko",0.287769784172662,"positive","animals & nature",278,6,186,86
+"280","<f0><9f><8d><81>","maple leaf","lexiconvihyrplmeycyqfiuwicu",0.490683229813665,"positive","animals & nature",161,5,72,84
+"281","<f0><9f><8d><82>","fallen leaf","lexiconywqpdnauxfxeazqfhskp",0.555555555555556,"positive","animals & nature",189,6,72,111
+"282","<f0><9f><8d><83>","leaf fluttering in wind","lexicondkqcbioikllxmhdviuio",0.381443298969072,"positive","animals & nature",291,29,122,140
+"283","<f0><9f><8d><87>","grapes","lexiconyrbrmyuautoktpujcjnn",0.304347826086957,"positive","food & drink",23,5,6,12
+"284","<f0><9f><8d><88>","melon","lexicontjuxpnzspnbpejfrkhnt",-0.444444444444444,"negative","food & drink",9,6,1,2
+"285","<f0><9f><8d><89>","watermelon","lexiconzaixibzkvpmiuzqkrfup",0.610294117647059,"positive","food & drink",136,10,33,93
+"286","<f0><9f><8d><8a>","tangerine","lexiconlmofvzbhaylgfpxxdglh",0.444444444444444,"positive","food & drink",45,6,13,26
+"287","<f0><9f><8d><8b>","lemon","lexiconcblgkjokraftxfrsspam",0.263157894736842,"positive","food & drink",38,6,16,16
+"288","<f0><9f><8d><8c>","banana","lexiconkhuxvpxnivzgliyfgime",0.451219512195122,"positive","food & drink",82,10,25,47
+"289","<f0><9f><8d><8d>","pineapple","lexiconoruikyiajmxrdrkhxwta",0.5,"positive","food & drink",44,7,8,29
+"290","<f0><9f><8d><8e>","red apple","lexiconmgptnhqvmgdbpnhykvsz",0.340425531914894,"positive","food & drink",47,6,19,22
+"291","<f0><9f><8d><8f>","green apple","lexiconvbdkbtrwkyeyrhzztcsr",0.0740740740740741,"positive","food & drink",27,7,11,9
+"292","<f0><9f><8d><90>","pear","lexiconxqlmyjgvlerewnykgyfm",0.1875,"positive","food & drink",16,5,3,8
+"293","<f0><9f><8d><91>","peach","lexiconiwanagqtulwrayykbudx",0.26530612244898,"positive","food & drink",49,12,12,25
+"294","<f0><9f><8d><92>","cherries","lexiconcyhvoudutwuepmhqfplc",0.333333333333333,"positive","food & drink",45,6,18,21
+"295","<f0><9f><8d><93>","strawberry","lexiconfovwvdoxudazixtbkfep",0.691489361702128,"positive","food & drink",94,3,23,68
+"296","<f0><9f><8d><85>","tomato","lexiconjocathvraiktbzlohzhw",0.378378378378378,"positive","food & drink",37,9,5,23
+"297","<f0><9f><8d><86>","eggplant","lexiconhcijsxshfvlzqpacioti",0.416666666666667,"positive","food & drink",84,6,37,41
+"298","<f0><9f><8c><bd>","ear of corn","lexiconiqckymjwqyinfbtvlbwl",0.476190476190476,"positive","food & drink",42,5,12,25
+"299","<f0><9f><8d><84>","mushroom","lexiconcnoesldzpovlzhcwfmqg",0,"neutral","food & drink",8,2,4,2
+"300","<f0><9f><8c><b0>","chestnut","lexicondnbcqutudxyjjixorpef",0.7,"positive","food & drink",10,0,3,7
+"301","<f0><9f><8d><9e>","bread","lexiconrbpgtyvmvmobbrigxgws",0.0476190476190476,"positive","food & drink",21,6,8,7
+"302","<f0><9f><8d><96>","meat on bone","lexiconpiavbiglqvhwvckvakfl",0.142857142857143,"positive","food & drink",28,7,10,11
+"303","<f0><9f><8d><97>","poultry leg","lexiconytitpayqbwlvhcbuydjn",0.0689655172413793,"positive","food & drink",29,9,9,11
+"304","<f0><9f><8d><94>","hamburger","lexiconofgoxbshhyhxszvwngsb",0.285714285714286,"positive","food & drink",98,16,38,44
+"305","<f0><9f><8d><9f>","french fries","lexiconedcvqczhmnpsxeqfajhr",0.313253012048193,"positive","food & drink",83,14,29,40
+"306","<f0><9f><8d><95>","pizza","lexiconrrwpwcgrzunadysfbyta",0.420454545454545,"positive","food & drink",352,19,166,167
+"307","<f0><9f><8d><b3>","cooking","lexiconltxmnjndizjjexclemlz",0.0303030303030303,"positive","food & drink",33,13,6,14
+"308","<f0><9f><8d><b2>","pot of food","lexiconefbziizalejtocyxugrs",0.137931034482759,"positive","food & drink",29,7,11,11
+"309","<f0><9f><8d><b1>","bento box","lexiconnucizejulegjislzayzv",-0.333333333333333,"negative","food & drink",45,25,10,10
+"310","<f0><9f><8d><98>","rice cracker","lexiconusquevcxfazcgoeoluke",0.434782608695652,"positive","food & drink",23,5,3,15
+"311","<f0><9f><8d><99>","rice ball","lexiconiirugdujlymiotnksijo",0.310344827586207,"positive","food & drink",29,5,10,14
+"312","<f0><9f><8d><9a>","cooked rice","lexiconvsmbwxaloynzhoigztlx",0.5,"positive","food & drink",28,6,2,20
+"313","<f0><9f><8d><9b>","curry rice","lexiconetefnxbgrevupqmjcdih",0.0434782608695652,"positive","food & drink",23,8,6,9
+"314","<f0><9f><8d><9c>","steaming bowl","lexicondasttrakjfqsabjzbuzu",0.425,"positive","food & drink",40,9,5,26
+"315","<f0><9f><8d><9d>","spaghetti","lexiconuabzvitdqnztulgmimzw",0.12280701754386,"positive","food & drink",57,16,18,23
+"316","<f0><9f><8d><a0>","roasted sweet potato","lexicontylpwjdxsgnbjlwkzjcf",0,"neutral","food & drink",12,5,2,5
+"317","<f0><9f><8d><a2>","oden","lexiconilhqoprzbxwhuajfrzjb",-0.133333333333333,"negative","food & drink",15,5,7,3
+"318","<f0><9f><8d><a3>","sushi","lexiconbsvwrlrkudtofigdyxfx",-0.245283018867925,"negative","food & drink",53,24,18,11
+"319","<f0><9f><8d><a4>","fried shrimp","lexiconsfqceuvpmwyewejalwah",0.0571428571428571,"positive","food & drink",35,6,21,8
+"320","<f0><9f><8d><a5>","fish cake with swirl","lexiconxfeuyvaraqezdrhjnngo",-0.655172413793103,"negative","food & drink",29,22,4,3
+"321","<f0><9f><8d><a1>","dango","lexiconhcoqejsewwshcwmzmekx",-0.0555555555555556,"negative","food & drink",18,5,9,4
+"322","<f0><9f><8d><a6>","soft ice cream","lexiconlfdxrphjcylodgmqurto",0.473684210526316,"positive","food & drink",95,13,24,58
+"323","<f0><9f><8d><a7>","shaved ice","lexiconodneomvcnnttrhzjkrnt",0.325,"positive","food & drink",40,9,9,22
+"324","<f0><9f><8d><a8>","ice cream","lexicongldzsfhiznylvzbcpywm",0.233333333333333,"positive","food & drink",30,8,7,15
+"325","<f0><9f><8d><a9>","doughnut","lexiconcfxkgwbmzmwlvxezpleo",0.392523364485981,"positive","food & drink",107,15,35,57
+"326","<f0><9f><8d><aa>","cookie","lexiconzcyvkpnlcostnynyulhy",0.333333333333333,"positive","food & drink",54,10,16,28
+"327","<f0><9f><8e><82>","birthday cake","lexiconzonaazssthlcuvcmtbui",0.621890547263682,"positive","food & drink",201,16,44,141
+"328","<f0><9f><8d><b0>","shortcake","lexiconvtfdpricqxaqqzdxoxzc",0.464285714285714,"positive","food & drink",84,13,19,52
+"329","<f0><9f><8d><ab>","chocolate bar","lexiconmazmfvstzdmlhaumejxw",0.157894736842105,"positive","food & drink",76,22,20,34
+"330","<f0><9f><8d><ac>","candy","lexiconoxfokqpivuqrpziygpps",0.390243902439024,"positive","food & drink",41,8,9,24
+"331","<f0><9f><8d><ad>","lollipop","lexiconkvfovtrwkvvejncbepgk",0.315789473684211,"positive","food & drink",57,9,21,27
+"332","<f0><9f><8d><ae>","custard","lexiconfpxnvawutnkxtyhliwgr",-0.136363636363636,"negative","food & drink",22,10,5,7
+"333","<f0><9f><8d><af>","honey pot","lexiconhuqivmsrhhppkcgqzorx",0.0526315789473684,"positive","food & drink",19,7,4,8
+"334","<f0><9f><8d><bc>","baby bottle","lexiconsdxayiksfpbafvhzdadi",0.625,"positive","food & drink",8,1,1,6
+"335","<e2><98><95>","hot beverage","lexiconjjgwuzlgihchedadfzpz",0.246073298429319,"positive","food & drink",382,53,182,147
+"336","<f0><9f><8d><b5>","teacup without handle","lexiconbasdwyuinjizwzmvrhzq",0.421052631578947,"positive","food & drink",19,3,5,11
+"337","<f0><9f><8d><b6>","sake","lexiconndtxdocvvhwjaykwfpwo",0.666666666666667,"positive","food & drink",3,0,1,2
+"338","<f0><9f><8d><b7>","wine glass","lexiconhhmuyzioewvhjezhgopb",0.401459854014599,"positive","food & drink",137,7,68,62
+"339","<f0><9f><8d><b8>","cocktail glass","lexiconwhaaceegmahthvkenppa",0.550724637681159,"positive","food & drink",138,12,38,88
+"340","<f0><9f><8d><b9>","tropical drink","lexiconoxfujartvtypdlpksjca",0.67479674796748,"positive","food & drink",123,5,30,88
+"341","<f0><9f><8d><ba>","beer mug","lexiconzyvwwrdptqyetdjbmgxo",0.50381679389313,"positive","food & drink",131,8,49,74
+"342","<f0><9f><8d><bb>","clinking beer mugs","lexiconkffisaiqpsltipdppjgm",0.521212121212121,"positive","food & drink",165,17,45,103
+"343","<f0><9f><8d><b4>","fork and knife","lexiconhpzobcjklofmqwnhcnyi",0.554347826086957,"positive","food & drink",92,4,33,55
+"344","<f0><9f><94><aa>","kitchen knife","lexiconfhxmrbjfuacfkokxkjqf",0.0710382513661202,"positive","food & drink",183,38,94,51
+"345","<f0><9f><8c><8d>","globe showing Europe-Africa","lexiconduggrvsswrehdjxcnubj",0.617647058823529,"positive","travel & places",68,5,16,47
+"346","<f0><9f><8c><8e>","globe showing Americas","lexiconnsychpzcuhawutyxteuf",0.340909090909091,"positive","travel & places",44,5,19,20
+"347","<f0><9f><8c><8f>","globe showing Asia-Australia","lexiconqysaknnwcbfoooiqsahh",0.36,"positive","travel & places",25,3,10,12
+"348","<f0><9f><8c><90>","globe with meridians","lexiconrydsdpsfvrkokpykwtvd",0.666666666666667,"positive","travel & places",3,0,1,2
+"349","<f0><9f><97><be>","map of Japan","lexiconzezrjbrkonztbyggguaj",0.4,"positive","travel & places",5,0,3,2
+"350","<f0><9f><8c><8b>","volcano","lexiconukxvxeodxikyopvpoaex",0.666666666666667,"positive","travel & places",6,0,2,4
+"351","<f0><9f><97><bb>","mount fuji","lexiconpsdjcmodlwfxwlhjwwzm",0.727272727272727,"positive","travel & places",11,0,3,8
+"352","<f0><9f><8f><a0>","house","lexiconukqhsbxmnltwemyjqfjs",0.565217391304348,"positive","travel & places",23,1,8,14
+"353","<f0><9f><8f><a1>","house with garden","lexiconxkhguzjmfcjprgzxdxht",0.472222222222222,"positive","travel & places",36,5,9,22
+"354","<f0><9f><8f><a2>","office building","lexiconazolucgsjmromyinhmec",0.2,"positive","travel & places",10,0,8,2
+"355","<f0><9f><8f><a4>","post office","lexiconingdxtavdoilnfrcyvtt",0.4,"positive","travel & places",5,0,3,2
+"356","<f0><9f><8f><a5>","hospital","lexiconjmsmqgakdbslglgxxpzx",0.333333333333333,"positive","travel & places",9,1,4,4
+"357","<f0><9f><8f><a6>","bank","lexiconhdtoeideovzvhnddnvfb",1,"positive","travel & places",1,0,0,1
+"358","<f0><9f><8f><a8>","hotel","lexicondgnubheytqdwqlcqhiyh",0.285714285714286,"positive","travel & places",7,0,5,2
+"359","<f0><9f><8f><a9>","love hotel","lexicongwlzkiqiumjdnhkumirq",0.5,"positive","travel & places",16,2,4,10
+"360","<f0><9f><8f><aa>","convenience store","lexiconmoiddggxaosuidkwwtdd",0.0833333333333333,"positive","travel & places",12,2,7,3
+"361","<f0><9f><8f><ab>","school","lexicontaynmfvlduodomehbbjp",-0.3,"negative","travel & places",10,6,1,3
+"362","<f0><9f><8f><ac>","department store","lexiconlrfopeasdqwhfnvhhbux",0,"neutral","travel & places",4,0,4,0
+"363","<f0><9f><8f><ad>","factory","lexiconjblugbpothbfgicclhuy",0.5,"positive","travel & places",2,0,1,1
+"364","<f0><9f><8f><af>","Japanese castle","lexiconeltgneahdwjkaalhydyq",0.166666666666667,"positive","travel & places",6,0,5,1
+"365","<f0><9f><8f><b0>","castle","lexiconzlcuowcickbqgxybrfik",0.357142857142857,"positive","travel & places",14,1,7,6
+"366","<f0><9f><92><92>","wedding","lexiconrqrvaifwlvymoyjrgahw",0.666666666666667,"positive","travel & places",9,0,3,6
+"367","<f0><9f><97><bc>","Tokyo tower","lexiconbvbqyxekbhbbufqjdpyu",0.6,"positive","travel & places",20,1,6,13
+"368","<f0><9f><97><bd>","Statue of Liberty","lexiconllpzfubvoprlvxggkxjt",0.368421052631579,"positive","travel & places",19,1,10,8
+"369","<e2><9b><aa>","church","lexiconubiplptmkvnzoicwcfcp",0.153846153846154,"positive","travel & places",13,2,7,4
+"370","<e2><9b><b2>","fountain","lexiconsnwroxxjcsjfqfazdxao",0.0666666666666667,"positive","travel & places",15,1,12,2
+"371","<e2><9b><ba>","tent","lexiconbsiaiuhjlpkjhbqodxfb",0.6,"positive","travel & places",10,1,2,7
+"372","<f0><9f><8c><81>","foggy","lexiconybrxjemdjkuwoxzqscgp",0.214285714285714,"positive","travel & places",14,1,9,4
+"373","<f0><9f><8c><83>","night with stars","lexiconntrxzszhtiqfmiufnrii",0.410714285714286,"positive","travel & places",56,3,27,26
+"374","<f0><9f><8c><84>","sunrise over mountains","lexiconfzrohvwiczjxlvxzznay",0.2,"positive","travel & places",5,0,4,1
+"375","<f0><9f><8c><85>","sunrise","lexiconxtxklufmfcffzxlshkdc",0.380952380952381,"positive","travel & places",42,6,14,22
+"376","<f0><9f><8c><86>","cityscape at dusk","lexiconzgyzqfiahmxmewektpgl",0.166666666666667,"positive","travel & places",12,2,6,4
+"377","<f0><9f><8c><87>","sunset","lexiconsfuzwjxdscivqvskgacw",0.615384615384615,"positive","travel & places",13,0,5,8
+"378","<f0><9f><8c><89>","bridge at night","lexiconqjaitmmmyuzgzcqvkroc",0.714285714285714,"positive","travel & places",7,0,2,5
+"379","<e2><99><a8>","hot springs","lexiconuzwrgivzvtbjinppyitl",0.964285714285714,"positive","travel & places",28,0,1,27
+"380","<f0><9f><8c><8c>","milky way","lexiconioyjackmbsrhaqzjtkyt",0.553191489361702,"positive","travel & places",47,5,11,31
+"381","<f0><9f><8e><a0>","carousel horse","lexiconrxarhjvzqdyjasjbakmx",0.6,"positive","travel & places",5,0,2,3
+"382","<f0><9f><8e><a1>","ferris wheel","lexiconsgailjexagvhleptxbqc",0.333333333333333,"positive","travel & places",18,1,10,7
+"383","<f0><9f><8e><a2>","roller coaster","lexiconiqhpuxudjvepqsrukalo",0.571428571428571,"positive","travel & places",14,1,4,9
+"384","<f0><9f><8e><aa>","circus tent","lexiconklbqrodowvvxflropehh",0.333333333333333,"positive","travel & places",6,0,4,2
+"385","<f0><9f><8e><ad>","performing arts","lexicondvyahnatsqgmxlvsmrxl",0,"neutral","travel & places",15,5,5,5
+"386","<f0><9f><8e><a8>","artist palette","lexiconolzavmtmrodotizjqsvz",0.2,"positive","travel & places",15,1,10,4
+"387","<f0><9f><8e><b0>","slot machine","lexiconelnmazdeqaugdxwwprls",-1,"negative","travel & places",1,1,0,0
+"388","<f0><9f><9a><82>","locomotive","lexiconztypmfuoiuevgfkicnvs",0.307692307692308,"positive","travel & places",13,0,9,4
+"389","<f0><9f><9a><83>","railway car","lexiconvrdfonklggoleaycmiow",0.75,"positive","travel & places",4,0,1,3
+"390","<f0><9f><9a><84>","high-speed train","lexiconbzheptzqxwfytgkqwhrw",0.714285714285714,"positive","travel & places",7,0,2,5
+"391","<f0><9f><9a><85>","bullet train","lexiconwkrvakxddtqckcjxeksl",0.666666666666667,"positive","travel & places",3,0,1,2
+"392","<f0><9f><9a><86>","train","lexiconqiofiooljuhkzftbapmm",0.5,"positive","travel & places",2,0,1,1
+"393","<f0><9f><9a><89>","station","lexiconximltxaoggmggyodanph",0.75,"positive","travel & places",4,0,1,3
+"394","<f0><9f><9a><8a>","tram","lexiconiurickbzqhxkdseofwhk",0.25,"positive","travel & places",4,1,1,2
+"395","<f0><9f><9a><9d>","monorail","lexiconfwgyfspyudnxjwrkmvfb",1,"positive","travel & places",1,0,0,1
+"396","<f0><9f><9a><9e>","mountain railway","lexiconbyagggpeddggkylwssny",0.666666666666667,"positive","travel & places",3,0,1,2
+"397","<f0><9f><9a><8b>","tram car","lexiconwioowswfwtwvtrqwifke",0.0833333333333333,"positive","travel & places",12,0,11,1
+"398","<f0><9f><9a><8c>","bus","lexiconbgmujofaalvxqrklfqgd",0.222222222222222,"positive","travel & places",18,2,10,6
+"399","<f0><9f><9a><8d>","oncoming bus","lexiconofstoukzbvhkutyxjmco",0.0909090909090909,"positive","travel & places",11,4,2,5
+"400","<f0><9f><9a><90>","minibus","lexiconwdhpkjuqiiqrntdtlrme",0.833333333333333,"positive","travel & places",6,0,1,5
+"401","<f0><9f><9a><91>","ambulance","lexiconcuxwrsbqkcbxmludistx",0.0909090909090909,"positive","travel & places",11,3,4,4
+"402","<f0><9f><9a><92>","fire engine","lexiconqtintfwodxcnndanlfqh",-0.333333333333333,"negative","travel & places",3,1,2,0
+"403","<f0><9f><9a><93>","police car","lexicondxqxfoixkojmsslqxvbm",0.375,"positive","travel & places",8,0,5,3
+"404","<f0><9f><9a><94>","oncoming police car","lexicongahlbitdprcwgvwfkeaz",0,"neutral","travel & places",6,1,4,1
+"405","<f0><9f><9a><95>","taxi","lexicongytrhjxbmojwcjoirkrv",0,"neutral","travel & places",14,3,8,3
+"406","<f0><9f><9a><96>","oncoming taxi","lexiconujdiguxnkrknjnyhvjkc",-0.111111111111111,"negative","travel & places",9,3,4,2
+"407","<f0><9f><9a><97>","automobile","lexiconyldodidwwtrfamlrkmww",0.241935483870968,"positive","travel & places",62,8,31,23
+"408","<f0><9f><9a><98>","oncoming automobile","lexiconjleymwbolgskmpkkxysy",0.0740740740740741,"positive","travel & places",27,8,9,10
+"409","<f0><9f><9a><99>","sport utility vehicle","lexiconkcxhjckourpaahqivwii",0.04,"positive","travel & places",25,5,14,6
+"410","<f0><9f><9a><9a>","delivery truck","lexiconjtnpxrpdhrrzhnuqyxsx",-0.1,"negative","travel & places",10,2,7,1
+"411","<f0><9f><9a><9b>","articulated lorry","lexiconzobwsjkhljgbqnntekkx",-0.25,"negative","travel & places",8,2,6,0
+"412","<f0><9f><9a><9c>","tractor","lexiconwnzbafigotkhyzuhqjtb",1,"positive","travel & places",7,0,0,7
+"413","<f0><9f><9a><b2>","bicycle","lexiconabukxmiodkhvnzfvnvap",0.428571428571429,"positive","travel & places",21,1,10,10
+"414","<e2><9b><bd>","fuel pump","lexiconnppaoekamsnwxqmmkkof",0.166666666666667,"positive","travel & places",30,1,23,6
+"415","<f0><9f><9a><a8>","police car light","lexiconuwkujstxxzukowzyknyd",0.672727272727273,"positive","travel & places",55,6,6,43
+"416","<f0><9f><9a><a5>","horizontal traffic light","lexicondwhdeexqjbzpaqntetob",0,"neutral","travel & places",5,1,3,1
+"417","<f0><9f><9a><a6>","vertical traffic light","lexiconxowegmbjwsaswrrowddg",0.111111111111111,"positive","travel & places",9,2,4,3
+"418","<e2><9a><93>","anchor","lexiconfzhdolmhdbjpseaubtpc",0.625,"positive","travel & places",32,2,8,22
+"419","<e2><9b><b5>","sailboat","lexiconccagpiqbdupvmqwjbjsp",0.714285714285714,"positive","travel & places",7,0,2,5
+"420","<f0><9f><9a><a4>","speedboat","lexiconfchhzbwwyyouksqojeai",0.444444444444444,"positive","travel & places",9,0,5,4
+"421","<f0><9f><9a><a2>","ship","lexiconwtlunpuiyrrznpmbvypb",0.3,"positive","travel & places",10,3,1,6
+"422","<e2><9c><88>","airplane","lexiconqtcqqrlhcafaqsflcfhr",0.419254658385093,"positive","travel & places",322,13,161,148
+"423","<f0><9f><92><ba>","seat","lexiconveixxzmykmlshtcofwbo",0.285714285714286,"positive","travel & places",7,1,3,3
+"424","<f0><9f><9a><81>","helicopter","lexiconnwzqvqwucslbropdndmi",0.2,"positive","travel & places",5,0,4,1
+"425","<f0><9f><9a><a0>","mountain cableway","lexiconxjbrwcjkhackfgjctokc",0,"neutral","travel & places",2,0,2,0
+"426","<f0><9f><9a><a1>","aerial tramway","lexiconxbaaiyefvicqrbwqrnsf",-0.5,"negative","travel & places",2,1,1,0
+"427","<f0><9f><9a><80>","rocket","lexiconwizbukzesopzflfinotj",0.525,"positive","travel & places",40,2,15,23
+"428","<f0><9f><9a><aa>","door","lexicongcsnpwbleihwisdtlvqs",0.75,"positive","travel & places",4,0,1,3
+"429","<f0><9f><9a><bd>","toilet","lexiconblkwcnotcmrvvtybflfa",1,"positive","travel & places",2,0,0,2
+"430","<f0><9f><9a><bf>","shower","lexiconihvjcqdcnalbiosbyhyk",0.705882352941177,"positive","travel & places",17,1,3,13
+"431","<e2><8c><9b>","hourglass done","lexiconcuproafugjwynfxvloio",0.142857142857143,"positive","travel & places",7,2,2,3
+"432","<e2><8f><b3>","hourglass not done","lexiconuyemzwnjwbtdmrizutmg",0,"neutral","travel & places",7,3,1,3
+"433","<e2><8c><9a>","watch","lexiconkpdmxxgyxsxradbrnkwz",0.235294117647059,"positive","travel & places",17,2,9,6
+"434","<e2><8f><b0>","alarm clock","lexiconbgmzpmowvzkfxldynued",0.538461538461538,"positive","travel & places",13,2,2,9
+"435","<f0><9f><95><9b>","twelve o'clock","lexiconkutwfgzezjzdzaablskz",1,"positive","travel & places",1,0,0,1
+"436","<f0><9f><95><90>","one o'clock","lexiconuelsydupxedwxlstzygb",-1,"negative","travel & places",1,1,0,0
+"437","<f0><9f><95><91>","two o'clock","lexiconizaasqqpulunbzqmshnc",0.5,"positive","travel & places",2,0,1,1
+"438","<f0><9f><95><9d>","two-thirty","lexiconypvesfdqhmocayjyhhka",-0.333333333333333,"negative","travel & places",3,1,2,0
+"439","<f0><9f><95><92>","three o'clock","lexiconjbgphavygbigknapgzmd",0,"neutral","travel & places",1,0,1,0
+"440","<f0><9f><95><94>","five o'clock","lexiconjxwckhqcbqsjfuvbbsim",-1,"negative","travel & places",1,1,0,0
+"441","<f0><9f><95><95>","six o'clock","lexiconcirdiwehwwxuplmnktlb",-1,"negative","travel & places",1,1,0,0
+"442","<f0><9f><95><a5>","ten-thirty","lexiconpwkphqdgfhcmqnoctzay",-1,"negative","travel & places",1,1,0,0
+"443","<f0><9f><8c><91>","new moon","lexiconugsephzfdrlfkhnhhjze",0.523809523809524,"positive","travel & places",21,2,6,13
+"444","<f0><9f><8c><92>","waxing crescent moon","lexiconafdhoeldbqmzktewhsrs",0.692307692307692,"positive","travel & places",13,0,4,9
+"445","<f0><9f><8c><93>","first quarter moon","lexiconwcaiviebiytolowkanmb",0.684210526315789,"positive","travel & places",19,0,6,13
+"446","<f0><9f><8c><94>","waxing gibbous moon","lexicongqljvejlobtvemppwlhd",0.6875,"positive","travel & places",16,0,5,11
+"447","<f0><9f><8c><95>","full moon","lexicondjervzdhgjvisivyecri",0.606060606060606,"positive","travel & places",33,3,7,23
+"448","<f0><9f><8c><96>","waning gibbous moon","lexiconfacqcjybgtycemnvzfpj",0.733333333333333,"positive","travel & places",15,0,4,11
+"449","<f0><9f><8c><97>","last quarter moon","lexiconngoaqynhzadiayalxwmq",0.733333333333333,"positive","travel & places",15,0,4,11
+"450","<f0><9f><8c><98>","waning crescent moon","lexiconwlncezdzslgcrtndynpo",0.6875,"positive","travel & places",16,0,5,11
+"451","<f0><9f><8c><99>","crescent moon","lexiconslvcavbwkwssphugxpfv",0.620689655172414,"positive","travel & places",58,3,16,39
+"452","<f0><9f><8c><9a>","new moon face","lexiconbwbopicaaawyfcvlvkco",0.472972972972973,"positive","travel & places",148,23,32,93
+"453","<f0><9f><8c><9b>","first quarter moon face","lexiconalsvhinfxgyvrycnrzng",0.647058823529412,"positive","travel & places",17,0,6,11
+"454","<f0><9f><8c><9c>","last quarter moon face","lexiconexdhopzrcyvaolrhjxgd",0.588235294117647,"positive","travel & places",17,0,7,10
+"455","<e2><98><80>","sun","lexiconewjnxvefztboygcbftuu",0.466921119592875,"positive","travel & places",786,21,377,388
+"456","<f0><9f><8c><9d>","full moon face","lexiconrlyhhgtlmzmktrnuvlqe",0.205882352941176,"positive","travel & places",34,5,17,12
+"457","<f0><9f><8c><9e>","sun with face","lexiconolpmjzaknyqfdhzivuxm",0.567901234567901,"positive","travel & places",162,3,64,95
+"458","<e2><ad><90>","white medium star","lexiconprcypcigvgqzpklpsufi",0.591194968553459,"positive","travel & places",159,5,55,99
+"459","<f0><9f><8c><9f>","glowing star","lexiconuqcmxknbpswkaebenqoe",0.331658291457286,"positive","travel & places",199,11,111,77
+"460","<f0><9f><8c><a0>","shooting star","lexiconlcplwurdlhkqvchflbql",0.642857142857143,"positive","travel & places",14,2,1,11
+"461","<e2><98><81>","cloud","lexiconextasgwjnrbxtmcgpwxt",0.317307692307692,"positive","travel & places",104,14,43,47
+"462","<e2><9b><85>","sun behind cloud","lexiconypytyblrhmsjyaxwztmo",0.486486486486487,"positive","travel & places",37,4,11,22
+"463","<f0><9f><8c><80>","cyclone","lexiconnkgbmfvekkirneufcwim",0.106060606060606,"positive","travel & places",66,10,39,17
+"464","<f0><9f><8c><88>","rainbow","lexiconmezrebxecatcewhsatab",0.534090909090909,"positive","travel & places",88,5,31,52
+"465","<f0><9f><8c><82>","closed umbrella","lexiconcqejsksihuswfsxyohzj",0.277777777777778,"positive","travel & places",18,2,9,7
+"466","<e2><98><82>","umbrella","lexiconcfqcnziobkufxjjymbqw",0,"neutral","travel & places",6,1,4,1
+"467","<e2><98><94>","umbrella with rain drops","lexiconmczcvxxmnevcypytknga",0.297297297297297,"positive","travel & places",111,21,36,54
+"468","<e2><9a><a1>","high voltage","lexiconmqevchevcnxykbfeqrvd",0.178861788617886,"positive","travel & places",246,10,182,54
+"469","<e2><9d><84>","snowflake","lexiconjvibxzkekqocjngqfpge",0.510028653295129,"positive","travel & places",349,34,103,212
+"470","<e2><98><83>","snowman","lexiconbpfozomkyifdgcreiciv",0.5,"positive","travel & places",2,0,1,1
+"471","<e2><9b><84>","snowman without snow","lexiconuhhwfrqzbumtgsmmgrto",0.528795811518325,"positive","travel & places",191,14,62,115
+"472","<e2><98><84>","comet","lexiconomqrwvydkmhsqebhrsgo",0,"neutral","travel & places",5,0,5,0
+"473","<f0><9f><94><a5>","fire","lexiconauwjpzwijglqnyyyemll",0.139784946236559,"positive","travel & places",651,80,400,171
+"474","<f0><9f><92><a7>","droplet","lexiconrruvbfprcxxrlvnqbrjk",-0.170731707317073,"negative","travel & places",41,20,8,13
+"475","<f0><9f><8c><8a>","water wave","lexiconhajbneemlksjbcdetius",0.515789473684211,"positive","travel & places",95,8,30,57
+"476","<f0><9f><8e><83>","jack-o-lantern","lexiconrfwfzkkwwjmxphxczvbk",0.617283950617284,"positive","activities",81,6,19,56
+"477","<f0><9f><8e><84>","Christmas tree","lexiconzvrsisgmhexdkvjvvwcs",0.538135593220339,"positive","activities",236,15,79,142
+"478","<f0><9f><8e><86>","fireworks","lexicontaciczlnyubbvadsdeyu",0.75,"positive","activities",52,2,9,41
+"479","<f0><9f><8e><87>","sparkler","lexiconbkmfwyjxfecdpspauanv",0.772727272727273,"positive","activities",22,1,3,18
+"480","<e2><9c><a8>","sparkles","lexiconlauxepbwluiqqylrydsn",0.352594339622642,"positive","activities",848,43,463,342
+"481","<f0><9f><8e><88>","balloon","lexiconwxyummoepjrfyhsyloqm",0.725631768953069,"positive","activities",277,4,68,205
+"482","<f0><9f><8e><89>","party popper","lexiconwankcjveixvjjpxzdayp",0.739555555555556,"positive","activities",1125,43,207,875
+"483","<f0><9f><8e><8a>","confetti ball","lexiconmtfoslaeygxugrytxwyi",0.727272727272727,"positive","activities",363,20,59,284
+"484","<f0><9f><8e><8b>","tanabata tree","lexiconjdytgvtfaezhkmozviap",0.666666666666667,"positive","activities",6,1,0,5
+"485","<f0><9f><8e><8d>","pine decoration","lexiconbnvkvzuampchaarqhtfe",0,"neutral","activities",3,0,3,0
+"486","<f0><9f><8e><8e>","Japanese dolls","lexiconkkmabgiluplkehsimnlq",0.96078431372549,"positive","activities",51,0,2,49
+"487","<f0><9f><8e><8f>","carp streamer","lexicontkkhjsbehuwkjhidizro",0,"neutral","activities",1,0,1,0
+"488","<f0><9f><8e><90>","wind chime","lexiconbnrfcxbyhavscemyqedm",0.214285714285714,"positive","activities",14,0,11,3
+"489","<f0><9f><8e><91>","moon viewing ceremony","lexiconoklizhqgqgxhivsnwzme",0,"neutral","activities",2,0,2,0
+"490","<f0><9f><8e><80>","ribbon","lexiconagsjqlzrhcefkhtdmmcx",0.641025641025641,"positive","activities",156,6,44,106
+"491","<f0><9f><8e><81>","wrapped gift","lexiconnltlkdefcyqmuquuheem",0.767361111111111,"positive","activities",288,11,45,232
+"492","<f0><9f><8e><ab>","ticket","lexiconnkmdivgvbflzsrmbtqkc",0,"neutral","activities",1,0,1,0
+"493","<f0><9f><8f><86>","trophy","lexiconecyybwxbqtyxiuaeqtth",0.737113402061856,"positive","activities",194,6,39,149
+"494","<e2><9a><bd>","soccer ball","lexiconkmiappzntexdesbrierw",0.622073578595318,"positive","activities",299,15,83,201
+"495","<e2><9a><be>","baseball","lexiconmctyjdeithikzhbpexkg",-0.0416666666666667,"negative","activities",24,9,7,8
+"496","<f0><9f><8f><80>","basketball","lexicontmmkopibgqxxoqfyqols",0.265625,"positive","activities",64,13,21,30
+"497","<f0><9f><8f><88>","american football","lexiconmsvyxntmiondptcuknvr",0.543859649122807,"positive","activities",114,7,38,69
+"498","<f0><9f><8f><89>","rugby football","lexiconzirvdkggmachkfxcwsdm",0.636363636363636,"positive","activities",11,0,4,7
+"499","<f0><9f><8e><be>","tennis","lexiconyeukaaihgvgjxojnlyle",0.619047619047619,"positive","activities",21,2,4,15
+"500","<f0><9f><8e><b1>","pool 8 ball","lexiconrtsdfidchbckofzcqpma",0.333333333333333,"positive","activities",3,1,0,2
+"501","<f0><9f><8e><b3>","bowling","lexiconvnkrohvqowjclkexgopr",-0.5,"negative","activities",2,1,1,0
+"502","<f0><9f><8e><af>","direct hit","lexicongapvvwyndvpncpgxazsd",0.666666666666667,"positive","activities",3,0,1,2
+"503","<e2><9b><b3>","flag in hole","lexicontsjzpwcqqjggtuwhplib",0.875,"positive","activities",8,0,1,7
+"504","<f0><9f><8e><a3>","fishing pole","lexiconoyfeytdjjpqaqfjaobee",-0.666666666666667,"negative","activities",3,2,1,0
+"505","<f0><9f><8e><bd>","running shirt","lexiconffzhymrrfbkdpwvwdvjl",0.555555555555556,"positive","activities",9,0,4,5
+"506","<f0><9f><8e><bf>","skis","lexiconqiadxuzcwbosegdxhsxk",0.461538461538462,"positive","activities",13,1,5,7
+"507","<f0><9f><8e><ae>","video game","lexiconrymkqhaeqjtkjouqjgje",0.441860465116279,"positive","activities",86,8,32,46
+"508","<f0><9f><8e><b2>","game die","lexiconrmterwepxfqxkvjmnrys",0,"neutral","activities",3,0,3,0
+"509","<e2><99><a0>","spade suit","lexiconltqtotpsqojsrcnzotxl",0.35,"positive","activities",20,0,13,7
+"510","<e2><99><a5>","heart suit","lexiconwhjichpbtcjrbmnwunzi",0.657614781634938,"positive","activities",7144,252,1942,4950
+"511","<e2><99><a6>","diamond suit","lexiconvfsbzcgqzbmkhcjiykni",0.475409836065574,"positive","activities",61,6,20,35
+"512","<e2><99><a3>","club suit","lexicontnzpyojvixhznphubzva",0.371428571428571,"positive","activities",35,4,14,17
+"513","<f0><9f><83><8f>","joker","lexiconwffloukjdmzkmesdjdzd",0.111111111111111,"positive","activities",9,3,2,4
+"514","<f0><9f><80><84>","mahjong red dragon","lexiconolmphehamcdtwimfemrw",1,"positive","activities",1,0,0,1
+"515","<f0><9f><94><87>","muted speaker","lexiconikjimacdjkuhizpbijek",1,"positive","objects",1,0,0,1
+"516","<f0><9f><94><88>","speaker low volume","lexiconoianwjtihcjlpqkrmfqa",0.333333333333333,"positive","objects",6,0,4,2
+"517","<f0><9f><94><89>","speaker medium volume","lexiconjgiwaxzzkvjrzxwbhvyl",0.666666666666667,"positive","objects",3,0,1,2
+"518","<f0><9f><94><8a>","speaker high volume","lexiconlquggurrbbnlqnavcnic",0.428571428571429,"positive","objects",49,4,20,25
+"519","<f0><9f><93><a2>","loudspeaker","lexiconimgsefurxbdsguaemoca",0.5,"positive","objects",16,0,8,8
+"520","<f0><9f><93><a3>","megaphone","lexiconmsjdtrvwypbormyjarxc",0.5,"positive","objects",8,1,2,5
+"521","<f0><9f><93><af>","postal horn","lexiconznjzggdvxnoedjiojsvm",-0.2,"negative","objects",5,1,4,0
+"522","<f0><9f><94><94>","bell","lexiconpjyimzgssmguawvxwqnx",1,"positive","objects",10,0,0,10
+"523","<f0><9f><94><95>","bell with slash","lexiconpfafokekzawqlmhbaecp",-0.333333333333333,"negative","objects",3,2,0,1
+"524","<f0><9f><8e><bc>","musical score","lexiconlettydqdbxtgkpocijoa",0.346938775510204,"positive","objects",49,2,28,19
+"525","<f0><9f><8e><b5>","musical note","lexiconjnjwjvmuujfhvjrcgqbv",0.506726457399103,"positive","objects",223,23,64,136
+"526","<f0><9f><8e><b6>","musical notes","lexiconykhnqpxdcsagqwxyggrk",0.53922967189729,"positive","objects",701,67,189,445
+"527","<f0><9f><8e><a4>","microphone","lexiconldnonmwqwiziicvzbpcg",0.486111111111111,"positive","objects",144,17,40,87
+"528","<f0><9f><8e><a7>","headphone","lexiconjtzztpxyowdzyexewuan",0.422535211267606,"positive","objects",142,18,46,78
+"529","<f0><9f><93><bb>","radio","lexicondjoqvaqgiexjifskuiax",0.4,"positive","objects",10,1,4,5
+"530","<f0><9f><8e><b7>","saxophone","lexiconjwucxewzbgubbdsuuiwl",0.785714285714286,"positive","objects",14,0,3,11
+"531","<f0><9f><8e><b8>","guitar","lexiconlpljnjxmjawhqptiqwkt",0.528,"positive","objects",125,1,57,67
+"532","<f0><9f><8e><b9>","musical keyboard","lexiconrzkhrnejqucxidbxrwzy",0.392857142857143,"positive","objects",28,0,17,11
+"533","<f0><9f><8e><ba>","trumpet","lexiconlvfybfauowpxtyunoozt",0.777777777777778,"positive","objects",9,1,0,8
+"534","<f0><9f><8e><bb>","violin","lexiconiomdytzyvnqwjcenlszl",0.444444444444444,"positive","objects",9,0,5,4
+"535","<f0><9f><93><b1>","mobile phone","lexiconohryytinsbqnqlxulcau",0.326530612244898,"positive","objects",49,4,25,20
+"536","<f0><9f><93><b2>","mobile phone with arrow","lexiconsnywocyjphzwqkwpyzus",0.255813953488372,"positive","objects",43,7,18,18
+"537","<e2><98><8e>","telephone","lexicongnrwjzrdxbgqjvebggei",0,"neutral","objects",14,2,10,2
+"538","<f0><9f><93><9e>","telephone receiver","lexicontadadavculqlfrqzcagp",0.571428571428571,"positive","objects",7,0,3,4
+"539","<f0><9f><93><9f>","pager","lexicononvvjmtdmmgitcgjzoxn",0,"neutral","objects",1,0,1,0
+"540","<f0><9f><93><a0>","fax machine","lexiconnjitvlyjbpkzbjaaglbp",0,"neutral","objects",2,0,2,0
+"541","<f0><9f><94><8b>","battery","lexiconvxnxauoawlaiyzudjfvk",-0.529411764705882,"negative","objects",34,22,8,4
+"542","<f0><9f><94><8c>","electric plug","lexiconxgfppjiglzywdzpvcqkn",-0.125,"negative","objects",8,3,3,2
+"543","<f0><9f><92><bb>","laptop computer","lexiconmelyibdkyxzvppgycesp",0.28,"positive","objects",25,1,16,8
+"544","<f0><9f><92><bd>","computer disk","lexiconhkncvxirpczlixjmiehd",0,"neutral","objects",1,0,1,0
+"545","<f0><9f><92><bf>","optical disk","lexiconvxmynycoadpubdribfrl",0.666666666666667,"positive","objects",33,0,11,22
+"546","<f0><9f><93><80>","dvd","lexiconbbrmqjtcxgboxzfqsspf",0.125,"positive","objects",8,1,5,2
+"547","<f0><9f><8e><a5>","movie camera","lexiconivoemtdrikibxgmfpeev",0.303030303030303,"positive","objects",66,8,30,28
+"548","<f0><9f><8e><ac>","clapper board","lexiconsufkouammxdidlzscqpp",0.3,"positive","objects",40,2,24,14
+"549","<f0><9f><93><ba>","television","lexiconckawlaqdkujjznqdgwga",0.405405405405405,"positive","objects",37,3,16,18
+"550","<f0><9f><93><b7>","camera","lexiconzjyffeduwqtbjrimnlof",0.447368421052632,"positive","objects",76,7,28,41
+"551","<f0><9f><93><b9>","video camera","lexiconxlopzecvwvtwzvqtovit",0.545454545454545,"positive","objects",11,1,3,7
+"552","<f0><9f><93><bc>","videocassette","lexiconbimktcfrurnobggoxyug",1,"positive","objects",1,0,0,1
+"553","<f0><9f><94><8e>","magnifying glass tilted right","lexicongcpxynqqfhnyjigptldp",0.75,"positive","objects",4,0,1,3
+"554","<f0><9f><94><ac>","microscope","lexiconmeruvklsxmkgmklqucih",1,"positive","objects",2,0,0,2
+"555","<f0><9f><94><ad>","telescope","lexiconmyivwfmzwlzsbwzrmljv",0.5,"positive","objects",6,0,3,3
+"556","<f0><9f><93><a1>","satellite antenna","lexiconmglscshebiwrhdyvcpnm",0.333333333333333,"positive","objects",6,1,2,3
+"557","<f0><9f><92><a1>","light bulb","lexiconiupafyozsbtdvgzwugdr",0.75,"positive","objects",12,0,3,9
+"558","<f0><9f><94><a6>","flashlight","lexicongwgrioxahjftchktiyic",0,"neutral","objects",5,0,5,0
+"559","<f0><9f><8f><ae>","red paper lantern","lexiconmsggqcmlicnnoewemeon",0,"neutral","objects",2,0,2,0
+"560","<f0><9f><93><94>","notebook with decorative cover","lexiconveowmewuyyjdwkhacglc",1,"positive","objects",1,0,0,1
+"561","<f0><9f><93><95>","closed book","lexiconghqvziscyvuigpyyylds",0.25,"positive","objects",8,1,4,3
+"562","<f0><9f><93><96>","open book","lexiconephxxxwazaszroydfdgm",0.176470588235294,"positive","objects",68,18,20,30
+"563","<f0><9f><93><97>","green book","lexiconzfdkmkkvmajhpktnemlw",0.2,"positive","objects",5,1,2,2
+"564","<f0><9f><93><98>","blue book","lexiconbygqbjckunliazqaaloq",0.25,"positive","objects",4,1,1,2
+"565","<f0><9f><93><99>","orange book","lexiconbkzfilshfevsdjvjgbmd",0.333333333333333,"positive","objects",3,1,0,2
+"566","<f0><9f><93><9a>","books","lexiconyhlqhbkmufbcipmmnujj",0.34453781512605,"positive","objects",119,22,34,63
+"567","<f0><9f><93><93>","notebook","lexiconkfhjmigiowllsaklfzld",0.25,"positive","objects",8,1,4,3
+"568","<f0><9f><93><92>","ledger","lexicontxbqyabilcxiyuxamrva",0.0392156862745098,"positive","objects",102,0,98,4
+"569","<f0><9f><93><83>","page with curl","lexiconocestmpsfckhlzvmghka",0.571428571428571,"positive","objects",7,0,3,4
+"570","<f0><9f><93><9c>","scroll","lexiconpzfsmjekgljvgmjngchm",1,"positive","objects",1,0,0,1
+"571","<f0><9f><93><84>","page facing up","lexiconktiudlcctutletulhppe",1,"positive","objects",6,0,0,6
+"572","<f0><9f><93><b0>","newspaper","lexiconnnglrfmgngcjipdvgojb",0.4,"positive","objects",5,1,1,3
+"573","<f0><9f><93><91>","bookmark tabs","lexiconnwmcpenhypvxylooqqgg",1,"positive","objects",2,0,0,2
+"574","<f0><9f><94><96>","bookmark","lexiconpoapqqathuekjltkqfxv",1,"positive","objects",1,0,0,1
+"575","<f0><9f><92><b0>","money bag","lexiconqfpplcveshmxvwlvstzg",0.255952380952381,"positive","objects",168,26,73,69
+"576","<f0><9f><92><b4>","yen banknote","lexicongcylygsrfzlldnbxedie",-0.25,"negative","objects",8,3,4,1
+"577","<f0><9f><92><b5>","dollar banknote","lexiconwoumobrbwzxcbuujzsci",0.423076923076923,"positive","objects",26,3,9,14
+"578","<f0><9f><92><b6>","euro banknote","lexiconmxkmvumhftvlkwqeuljc",0,"neutral","objects",22,3,16,3
+"579","<f0><9f><92><b7>","pound banknote","lexiconyzlbglpmtyrxgwhluoac",0.571428571428571,"positive","objects",7,0,3,4
+"580","<f0><9f><92><b8>","money with wings","lexiconsitvagaqdmkbmhrfjmcj",0.166666666666667,"positive","objects",66,16,23,27
+"581","<f0><9f><92><b3>","credit card","lexiconndsvlscpypozrvbqgbcb",0.5,"positive","objects",12,1,4,7
+"582","<f0><9f><92><b2>","heavy dollar sign","lexiconbemlfufephmczoxotnra",0.266666666666667,"positive","objects",30,0,22,8
+"583","<e2><9c><89>","envelope","lexiconoonwbdwhjuwjkykzgiep",0.333333333333333,"positive","objects",9,1,4,4
+"584","<f0><9f><93><a5>","inbox tray","lexiconwuxywwezvknaxcuicxth",0,"neutral","objects",6,0,6,0
+"585","<f0><9f><93><a6>","package","lexicontjjuyvtimiunwqxmuvnd",0.25,"positive","objects",4,0,3,1
+"586","<f0><9f><93><ab>","closed mailbox with raised flag","lexiconqbjwvecwlwcpevxyficn",1,"positive","objects",1,0,0,1
+"587","<f0><9f><93><ae>","postbox","lexiconanarxrouysfocsesoaak",-1,"negative","objects",1,1,0,0
+"588","<e2><9c><8f>","pencil","lexiconbeitpblufikkambvtnrn",0.371428571428571,"positive","objects",35,3,16,16
+"589","<e2><9c><92>","black nib","lexiconpazkxgwrpbxuccujqqan",0.3,"positive","objects",10,1,5,4
+"590","<f0><9f><93><9d>","memo","lexiconfkjhchbffuazigimvdmp",0.241935483870968,"positive","objects",62,8,31,23
+"591","<f0><9f><92><bc>","briefcase","lexicontxozwbdngfhpayzbssso",0.642857142857143,"positive","objects",14,1,3,10
+"592","<f0><9f><93><81>","file folder","lexicongrhoqhogzktzaesqxlpr",0,"neutral","objects",2,0,2,0
+"593","<f0><9f><93><85>","calendar","lexiconqokfopwkfwrklfnwriuf",0.222222222222222,"positive","objects",9,2,3,4
+"594","<f0><9f><93><86>","tear-off calendar","lexicongpjygxzxtjisfigwkuzz",1,"positive","objects",4,0,0,4
+"595","<f0><9f><93><88>","chart increasing","lexiconmlwylupasdjczyqqncdi",0.5,"positive","objects",2,0,1,1
+"596","<f0><9f><93><89>","chart decreasing","lexiconuaanrypumefatfalbrzu",0.5,"positive","objects",4,0,2,2
+"597","<f0><9f><93><8b>","clipboard","lexiconqcjulpoavhkivczobjkz",0.666666666666667,"positive","objects",3,0,1,2
+"598","<f0><9f><93><8c>","pushpin","lexiconudgmfrbevlxdacfbgsfe",-0.571428571428571,"negative","objects",7,5,1,1
+"599","<f0><9f><93><8d>","round pushpin","lexiconbniuysbpfbmazdrqtdcm",0.166666666666667,"positive","objects",6,1,3,2
+"600","<f0><9f><93><8e>","paperclip","lexiconqgazjoylskwytpjemxlb",1,"positive","objects",2,0,0,2
+"601","<f0><9f><93><90>","triangular ruler","lexiconwictxiwygrzzeecmnttz",0,"neutral","objects",2,0,2,0
+"602","<e2><9c><82>","scissors","lexiconwutratpvsmqaefufodho",-0.482758620689655,"negative","objects",58,34,18,6
+"603","<f0><9f><94><92>","locked","lexiconwoxfeslcareuqfkbyjgy",0.210526315789474,"positive","objects",19,5,5,9
+"604","<f0><9f><94><93>","unlocked","lexiconnqquzyhylzgcettkiroy",0.111111111111111,"positive","objects",9,3,2,4
+"605","<f0><9f><94><90>","locked with key","lexiconzhtyoecjsnkotfwwolpv",0.363636363636364,"positive","objects",33,6,9,18
+"606","<f0><9f><94><91>","key","lexiconzbuzpmdulumprjnaktqr",0.25,"positive","objects",4,1,1,2
+"607","<f0><9f><94><a8>","hammer","lexiconlxpachnwxjeuxfuptfyv",-0.125,"negative","objects",16,6,6,4
+"608","<f0><9f><94><ab>","pistol","lexiconvteiuefevquusvwoehgm",-0.195364238410596,"negative","objects",604,298,126,180
+"609","<f0><9f><94><a7>","wrench","lexiconlhkmglpnsjczvxekshgu",-0.6,"negative","objects",5,4,0,1
+"610","<f0><9f><94><a9>","nut and bolt","lexiconwppkaxwrttvbxnbvthjm",0.2,"positive","objects",5,1,2,2
+"611","<f0><9f><92><89>","syringe","lexiconboqfyvpsbujkyhirqjdr",0.375,"positive","objects",64,11,18,35
+"612","<f0><9f><92><8a>","pill","lexiconyxyrodseyjvttppwfbkp",0.454545454545455,"positive","objects",55,8,14,33
+"613","<f0><9f><9a><ac>","cigarette","lexiconbvrpkwswreyxfuopclct",0.542857142857143,"positive","objects",70,8,16,46
+"614","<f0><9f><97><bf>","moai","lexiconsdoudifvohxsqafexlfj",0.46551724137931,"positive","objects",58,5,21,32
+"615","<f0><9f><94><ae>","crystal ball","lexicontqclehqffjntgnxbfyjd",0.271356783919598,"positive","objects",199,6,133,60
+"616","<f0><9f><8f><a7>","ATM sign","lexiconzidmzkmdzsujnhartipm",1,"positive","symbols",12,0,0,12
+"617","<f0><9f><9a><ae>","litter in bin sign","lexiconlbequnxubwbcigvgkbrv",0,"neutral","symbols",4,2,0,2
+"618","<e2><99><bf>","wheelchair symbol","lexiconnbvfdefijbmntpibmsaa",1,"positive","symbols",1,0,0,1
+"619","<f0><9f><9a><b9>","men's room","lexiconfcpsxrqdrqgleiuxzcpb",0.769230769230769,"positive","symbols",26,1,4,21
+"620","<f0><9f><9a><ba>","women's room","lexiconifzwprkvjypodmnbeyhn",0.2,"positive","symbols",15,2,8,5
+"621","<f0><9f><9a><bc>","baby symbol","lexiconjprcvilpxwbfomyxwtzm",0.666666666666667,"positive","symbols",15,0,5,10
+"622","<f0><9f><9a><be>","water closet","lexiconsmemcuoorgigrdbmnfqf",0.333333333333333,"positive","symbols",3,0,2,1
+"623","<e2><9a><a0>","warning","lexiconcxqjobacfbkigktxdtev",-0.0681818181818182,"negative","symbols",88,16,62,10
+"624","<e2><9b><94>","no entry","lexiconfwkbagxrgukvdcpcnvaq",0.507692307692308,"positive","symbols",65,5,22,38
+"625","<f0><9f><9a><ab>","prohibited","lexiconkjyuhkrzasctodjenlqx",-0.454545454545455,"negative","symbols",88,48,32,8
+"626","<f0><9f><9a><b3>","no bicycles","lexiconhwtjswagyqwkqeoefzga",1,"positive","symbols",6,0,0,6
+"627","<f0><9f><9a><ad>","no smoking","lexiconwlnxqescoesytfatoevi",1,"positive","symbols",4,0,0,4
+"628","<f0><9f><93><b5>","no mobile phones","lexiconbohrdlqpkyhvifvzsuds",0.166666666666667,"positive","symbols",6,1,3,2
+"629","<f0><9f><94><9e>","no one under eighteen","lexiconxykmjizbzrglcidzrati",-0.0434782608695652,"negative","symbols",23,6,12,5
+"630","<e2><98><a2>","radioactive","lexiconumaapjfnfeqlwqmbhudw",0,"neutral","symbols",1,0,1,0
+"631","<e2><ac><86>","up arrow","lexicontchqpyckqkbkofdicmcv",0.307692307692308,"positive","symbols",39,1,25,13
+"632","<e2><9e><a1>","right arrow","lexiconckjoiawkmpbvyrhgmkjl",0.148648648648649,"positive","symbols",222,2,185,35
+"633","<e2><ac><87>","down arrow","lexiconmbaqpdrdmauuhtjnrdyo",0.466666666666667,"positive","symbols",15,2,4,9
+"634","<e2><86><99>","down-left arrow","lexicongpkfbrxpioapdsyttmlu",1,"positive","symbols",2,0,0,2
+"635","<e2><ac><85>","left arrow","lexiconqxflmlplgrtivtbvwxpm",0.583333333333333,"positive","symbols",12,0,5,7
+"636","<e2><86><95>","up-down arrow","lexicondruufzwzskemtphtrdkw",0,"neutral","symbols",1,0,1,0
+"637","<e2><86><a9>","right arrow curving left","lexiconsvmxjrjomlbefashylwz",1,"positive","symbols",3,0,0,3
+"638","<e2><86><aa>","left arrow curving right","lexiconvruqrnablzoaxxiawxzn",0.125,"positive","symbols",8,0,7,1
+"639","<f0><9f><94><83>","clockwise vertical arrows","lexiconaykghbmurivakfnicnwv",0,"neutral","symbols",4,1,2,1
+"640","<f0><9f><94><84>","counterclockwise arrows button","lexicongkgyitdbyerhdvqvmtgf",0,"neutral","symbols",5,0,5,0
+"641","<f0><9f><94><99>","BACK arrow","lexiconfkmlsjrjecoiiqnslfld",0.217391304347826,"positive","symbols",23,2,14,7
+"642","<f0><9f><94><9a>","END arrow","lexiconjdykjgsxrgjglwpmgijo",0.444444444444444,"positive","symbols",9,1,3,5
+"643","<f0><9f><94><9b>","ON! arrow","lexiconjkuxbkmkycxazxaoipkr",0.571428571428571,"positive","symbols",7,1,1,5
+"644","<f0><9f><94><9c>","SOON arrow","lexiconepgnvigohqctvphgoane",0.3,"positive","symbols",30,5,11,14
+"645","<f0><9f><94><9d>","TOP arrow","lexiconnqpxifvclviogkpfrsdl",0.478547854785479,"positive","symbols",303,26,106,171
+"646","<e2><9c><a1>","star of David","lexiconyolviekfcwewkajwhjkc",0,"neutral","symbols",4,0,4,0
+"647","<e2><98><af>","yin yang","lexiconvxtvkuomnyrjuyjjvqht",0.00100806451612903,"positive","symbols",992,5,981,6
+"648","<e2><9c><9d>","latin cross","lexiconelpwqxpnkdskqftriiei",-1,"negative","symbols",1,1,0,0
+"649","<e2><98><aa>","star and crescent","lexiconvikeurfdyjeapzztapmz",0,"neutral","symbols",4,0,4,0
+"650","<e2><98><ae>","peace symbol","lexiconqueqrhsaksgciqeecwek",0,"neutral","symbols",5,2,1,2
+"651","<f0><9f><94><af>","dotted six-pointed star","lexiconeojsuojwcirahvkcdhfn",1,"positive","symbols",1,0,0,1
+"652","<e2><99><88>","Aries","lexiconyldliuimjanuhdbkownr",-1,"negative","symbols",1,1,0,0
+"653","<e2><99><8a>","Gemini","lexiconpttcbptuoetxndzgyyeo",0,"neutral","symbols",1,0,1,0
+"654","<e2><99><8b>","Cancer","lexiconryvcsmqciqhlukgcaskt",0.333333333333333,"positive","symbols",3,0,2,1
+"655","<e2><99><8c>","Leo","lexiconfhfoxsodzyjoboahrgsq",0.833333333333333,"positive","symbols",6,0,1,5
+"656","<e2><99><8d>","Virgo","lexiconguvkilhwopbdrwmrlcvm",0.666666666666667,"positive","symbols",3,0,1,2
+"657","<e2><99><8e>","Libra","lexiconhzxyipipbdixfkdbdjll",-0.142857142857143,"negative","symbols",7,2,4,1
+"658","<e2><99><8f>","Scorpius","lexiconbrjyrffqzxolbmuhgbqr",0,"neutral","symbols",1,0,1,0
+"659","<e2><99><93>","Pisces","lexiconupmyiladmvgtpuklkyeo",0.5,"positive","symbols",2,0,1,1
+"660","<f0><9f><94><81>","repeat button","lexiconqqkdoftpwgiiiqmeujwl",0,"neutral","symbols",4,1,2,1
+"661","<e2><96><b6>","play button","lexiconvqgcywbxoxibfwtowwlh",0.213740458015267,"positive","symbols",131,7,89,35
+"662","<e2><8f><a9>","fast-forward button","lexiconetfdakrxoypuerkrhhkf",0.166666666666667,"positive","symbols",6,0,5,1
+"663","<e2><97><80>","reverse button","lexiconfemqxldffwqxaxbwmcjr",0.304347826086957,"positive","symbols",23,0,16,7
+"664","<e2><8f><aa>","fast reverse button","lexiconrtaholyvaescgwaxxorx",0.5,"positive","symbols",2,0,1,1
+"665","<f0><9f><94><bc>","up button","lexicontsbuwrzykdxcakzpexlg",0,"neutral","symbols",2,0,2,0
+"666","<e2><8f><ac>","fast down button","lexiconhyliknsgwgixnvszoexa",1,"positive","symbols",3,0,0,3
+"667","<f0><9f><8e><a6>","cinema","lexiconowclkmucgyxgybdpzgbf",0,"neutral","symbols",2,0,2,0
+"668","<f0><9f><94><85>","dim button","lexiconrxfabvljrjqdecpjhkfz",1,"positive","symbols",15,0,0,15
+"669","<f0><9f><94><86>","bright button","lexiconjktgfoycprkcsqmcesfk",0.647058823529412,"positive","symbols",17,0,6,11
+"670","<f0><9f><93><b6>","antenna bars","lexiconygzrduhjspitebqmoskq",0.4,"positive","symbols",5,0,3,2
+"671","<f0><9f><93><b4>","mobile phone off","lexiconwpqcdggmraxvehojucri",0.8,"positive","symbols",10,1,0,9
+"672","<e2><99><80>","female sign","lexiconqnfujmsvdvmqbsysoblz",0.333333333333333,"positive","symbols",3,0,2,1
+"673","<e2><99><82>","male sign","lexiconjlcppxmzgqmafcgjjhro",0.2,"positive","symbols",5,0,4,1
+"674","<e2><99><bb>","recycling symbol","lexiconhycrpvfooyknryofkarv",0.5625,"positive","symbols",16,0,7,9
+"675","<f0><9f><94><b1>","trident emblem","lexiconohusoqmkebwoodplgagr",0.0833333333333333,"positive","symbols",12,3,5,4
+"676","<f0><9f><93><9b>","name badge","lexiconpdqsdwtpyfjtxlhkwodx",0,"neutral","symbols",2,0,2,0
+"677","<f0><9f><94><b0>","Japanese symbol for beginner","lexiconvtumwsvjxmjdxkwhczlk",0,"neutral","symbols",2,0,2,0
+"678","<e2><ad><95>","heavy large circle","lexiconfuysilkenorwjpdpazyk",0.5,"positive","symbols",4,0,2,2
+"679","<e2><9c><85>","white heavy check mark","lexiconhsfdjkeqyynnoqywdrus",0.431372549019608,"positive","symbols",51,3,23,25
+"680","<e2><98><91>","ballot box with check","lexiconrzwkhmcjdzolxvhzdrht",0.103703703703704,"positive","symbols",135,2,117,16
+"681","<e2><9c><94>","heavy check mark","lexiconnwbbudoejtmdxyghgpwg",0.273092369477912,"positive","symbols",249,31,119,99
+"682","<e2><9c><96>","heavy multiplication x","lexiconzlwbpozxgusitiwybfsc",0.316062176165803,"positive","symbols",193,8,116,69
+"683","<e2><9d><8c>","cross mark","lexiconrxmqwewsvanywirwgycu",0.285714285714286,"positive","symbols",56,14,12,30
+"684","<e2><9d><8e>","cross mark button","lexiconikrjnydbajukjoepvgfl",-1,"negative","symbols",3,3,0,0
+"685","<e2><9e><95>","heavy plus sign","lexiconqvqrihliqcdceaqdyxpo",0.580645161290323,"positive","symbols",31,4,5,22
+"686","<e2><9e><96>","heavy minus sign","lexiconzsoovzrruxrcnckkksgd",-1,"negative","symbols",2,2,0,0
+"687","<e2><9e><97>","heavy division sign","lexiconahnurltdcotmandocydx",-0.5,"negative","symbols",2,1,1,0
+"688","<e2><9e><b0>","curly loop","lexiconujamqbnvgpyemyeanfwx",-0.125,"negative","symbols",8,4,1,3
+"689","<e2><9c><b3>","eight-spoked asterisk","lexiconflouruvoksfhjxuguqmk",0,"neutral","symbols",11,0,11,0
+"690","<e2><9c><b4>","eight-pointed star","lexiconwxmhfpptdolyxnlrreop",0.666666666666667,"positive","symbols",3,0,1,2
+"691","<e2><9d><87>","sparkle","lexiconqyyccavnoarvgyktidyt",0.666666666666667,"positive","symbols",3,0,1,2
+"692","<e2><9d><93>","question mark","lexiconriauahhrpopkseihvonm",0.0731707317073171,"positive","symbols",41,7,24,10
+"693","<e2><9d><94>","white question mark","lexiconlcotqimyoraxdamyopxi",0,"neutral","symbols",9,3,3,3
+"694","<e2><9d><95>","white exclamation mark","lexiconiuibcoirxryauvwhumuf",0.285714285714286,"positive","symbols",7,1,3,3
+"695","<e2><9d><97>","exclamation mark","lexiconpolowsjwkirzgokhbblq",0.101010101010101,"positive","symbols",198,31,116,51
+"696","<f0><9f><94><9f>","keycap 10","lexiconglpoozubdnnrfnaiciva",1,"positive","symbols",2,0,0,2
+"697","<f0><9f><92><af>","hundred points","lexiconmxumnfydiiguczhdpxzw",0.120879120879121,"positive","symbols",637,179,202,256
+"698","<f0><9f><94><a3>","input symbols","lexiconxurrchczmrjlalooasno",0.333333333333333,"positive","symbols",3,0,2,1
+"699","<f0><9f><85><b0>","A button (blood type)","lexiconqwjfiynlorfauxsbtgnb",0.333333333333333,"positive","symbols",6,1,2,3
+"700","<f0><9f><85><b1>","B button (blood type)","lexiconwobmhqdrrzgygdexhnkk",0,"neutral","symbols",3,0,3,0
+"701","<f0><9f><86><91>","CL button","lexiconlymwghqmobndhglghmbi",0,"neutral","symbols",1,0,1,0
+"702","<f0><9f><86><92>","COOL button","lexiconxbxqugbeggrzbbvqtanh",0.421052631578947,"positive","symbols",19,0,11,8
+"703","<f0><9f><86><93>","FREE button","lexiconfwktyzcmmnhqlxqazrne",0.25,"positive","symbols",12,0,9,3
+"704","<f0><9f><86><94>","ID button","lexiconfiysgablzezissjtllzu",0.923076923076923,"positive","symbols",13,0,1,12
+"705","<e2><93><82>","circled M","lexiconxggscgqbbdhsqvyraqxh",0.4,"positive","symbols",5,1,1,3
+"706","<f0><9f><86><95>","NEW button","lexiconzjdljpfasrhytiqaqhyl",0,"neutral","symbols",1,0,1,0
+"707","<f0><9f><86><96>","NG button","lexiconhiwkygfhhpqfyoqvrtpq",0.25,"positive","symbols",4,1,1,2
+"708","<f0><9f><85><be>","O button (blood type)","lexiconnjonhsxijkwglrpqfckk",-0.2,"negative","symbols",5,2,2,1
+"709","<f0><9f><86><97>","OK button","lexiconhrgdfmrgoklednpxcmsj",0.578947368421053,"positive","symbols",38,6,4,28
+"710","<f0><9f><86><98>","SOS button","lexiconeypztrtwchsrxvfcrkns",0.0909090909090909,"positive","symbols",11,4,2,5
+"711","<f0><9f><86><99>","UP! button","lexiconvxzxcfmnvdourvpiymoy",0.5,"positive","symbols",4,0,2,2
+"712","<f0><9f><88><82>","Japanese 'service charge' button","lexiconlordvulvafvxqqjvmkcz",-1,"negative","symbols",1,1,0,0
+"713","<f0><9f><89><90>","Japanese 'bargain' button","lexiconwmsjgfnelqfeyhgudmfj",1,"positive","symbols",1,0,0,1
+"714","<f0><9f><88><b9>","Japanese 'discount' button","lexiconsasdhhpuxbbvofcxfbpu",0.333333333333333,"positive","symbols",21,1,12,8
+"715","<e2><96><aa>","black small square","lexicontjlrvspxlpylwrulnwzt",0.20125786163522,"positive","symbols",159,15,97,47
+"716","<e2><96><ab>","white small square","lexiconisljhkqzmcjmhdeqllhv",1,"positive","symbols",1,0,0,1
+"717","<e2><ac><9b>","black large square","lexiconlkxzglxkkbppzxsfshvz",-0.333333333333333,"negative","symbols",3,2,0,1
+"718","<f0><9f><94><b6>","large orange diamond","lexiconwurhpvewhizayynmfxqo",0.4,"positive","symbols",5,0,3,2
+"719","<f0><9f><94><b7>","large blue diamond","lexiconnpnliybqntswvecdvyam",0.222222222222222,"positive","symbols",9,0,7,2
+"720","<f0><9f><94><b8>","small orange diamond","lexiconqhzgmorfcmcbcqtgfzel",0.285714285714286,"positive","symbols",7,0,5,2
+"721","<f0><9f><94><b9>","small blue diamond","lexicondmgrgivhcnnhqobwloih",0.166666666666667,"positive","symbols",12,2,6,4
+"722","<f0><9f><94><ba>","red triangle pointed up","lexiconkbqlojzoytvxbxqfcbtb",0.333333333333333,"positive","symbols",3,0,2,1
+"723","<f0><9f><94><bb>","red triangle pointed down","lexiconardcizdzxtcvndkrstgz",1,"positive","symbols",1,0,0,1
+"724","<f0><9f><92><a0>","diamond with a dot","lexiconkdycadmuvjakgbkfcbfk",0,"neutral","symbols",3,0,3,0
+"725","<f0><9f><94><98>","radio button","lexiconjymhghojxcceeqezrbfm",0.25,"positive","symbols",4,0,3,1
+"726","<f0><9f><94><b2>","black square button","lexicondbbcaloqqkhklqikxuxa",0.75,"positive","symbols",4,0,1,3
+"727","<f0><9f><94><b3>","white square button","lexiconznxsqcspqggpjtdkhnhj",0.5,"positive","symbols",2,0,1,1
+"728","<e2><9a><aa>","white circle","lexiconphumqsspajfhmlfnlzvm",0.486486486486487,"positive","symbols",37,0,19,18
+"729","<e2><9a><ab>","black circle","lexiconzzfgoearegyruirmyaqb",0.285714285714286,"positive","symbols",14,3,4,7
+"730","<f0><9f><94><b4>","red circle","lexicontotkvlrsgrzayuyhtxuz",0.422222222222222,"positive","symbols",45,1,24,20
+"731","<f0><9f><94><b5>","blue circle","lexiconkifytcfqbblmgyculufe",0.333333333333333,"positive","symbols",33,4,14,15
+"732","<f0><9f><8f><81>","chequered flag","lexiconydzzktfjkchiywwzjmya",0.571428571428571,"positive","flags",21,0,9,12
+"733","<f0><9f><9a><a9>","triangular flag","lexiconwiutsdotskrupggpgmhm",-0.285714285714286,"negative","flags",7,3,3,1
+"734","<f0><9f><8e><8c>","crossed flags","lexiconcraxwdjxsoajaecjsucx",1,"positive","flags",3,0,0,3
